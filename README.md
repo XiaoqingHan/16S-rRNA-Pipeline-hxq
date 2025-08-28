@@ -20,15 +20,13 @@ This pipeline performs end-to-end analysis of paired-end 16S rRNA sequencing dat
 
 ```
 Python >= 3.7
-pandas
-numpy
-scipy
-matplotlib
-seaborn
-scikit-learn
-statsmodels
-statannotations
-sqlite3
+pandas 2.3.0
+numpy 1.26.4
+scipy 1.11.2
+matplotlib 3.9.0
+seaborn 0.13.2
+statsmodels 0.14.5
+sqlite3 3.46.0
 ```
 
 ## Installation
@@ -218,9 +216,9 @@ tail -f 16s_analysis_*.log
 ```
 
 ## Citation
-Zhang, H. (2024). 16S-microbiome-pipeline. 
-GitHub repository: https://github.com/username/16s-pipeline
+Han XQ, (2025). 16S-microbiome-pipeline. 
+GitHub repository: https://github.com/XiaoqingHan/16S-rRNA-Pipeline-hxq.git
 
 ## Contact
 
-For questions and support, please contact [your email].
+For questions and support, please contact xhan723@hotmail.com.
