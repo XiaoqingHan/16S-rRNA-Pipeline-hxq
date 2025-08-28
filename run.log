@@ -1,0 +1,2783 @@
+=== STARTING BIOFILM SIMULATION (mass-driven volumes) ===
+Initializing fields with sucrose gradient...
+Plot windows created successfully
+=== EXPERIMENT TYPE: separated ===
+Seeding 8 S. mutans, 8 V. parvula
+Cell seeding completed in 0.00 s
+Placed: SM=8, VP=7, Total=15
+Configuration: separated
+Initialization completed in 16.41 s
+
+=== SUCROSE FIELD DIAG at MCS 0 ===
+  z= 0: avg=0.000000
+  z= 7: avg=2.692308
+  z=13: avg=5.000000
+[MCS 0] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 0 ===
+  1. Extracting field data...
+     Sucrose avg: 2.500000
+     Lactate avg: 0.000000
+  2. Extracting cell masses...
+     SM total mass: 3.520e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=0] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.40e-15, totM=3.52e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0000, avg=0.0000
+========================================
+[MCS 25] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 25 ===
+  1. Extracting field data...
+     Sucrose avg: 2.500000
+     Lactate avg: 0.000000
+  2. Extracting cell masses...
+     SM total mass: 3.520e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=25] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.40e-15, totM=3.52e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0000, avg=0.0000
+========================================
+[MCS 50] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 50 ===
+  1. Extracting field data...
+     Sucrose avg: 2.500000
+     Lactate avg: 0.000000
+  2. Extracting cell masses...
+     SM total mass: 3.520e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=50] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.40e-15, totM=3.52e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0000, avg=0.0000
+========================================
+[MCS 75] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 75 ===
+  1. Extracting field data...
+     Sucrose avg: 2.500000
+     Lactate avg: 0.000000
+  2. Extracting cell masses...
+     SM total mass: 3.520e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=75] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.40e-15, totM=3.52e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0000, avg=0.0000
+========================================
+[MCS 100] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 100 ===
+  1. Extracting field data...
+     Sucrose avg: 2.500000
+     Lactate avg: 0.000000
+  2. Extracting cell masses...
+     SM total mass: 3.520e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 5126.52s
+     Returned 9 fields
+     Σ dM_SM=4.411e-16, Σ dM_VP=-1.041e-20
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=100] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.46e-15, totM=3.56e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0000, avg=0.0000
+========================================
+[MCS 125] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 125 ===
+  1. Extracting field data...
+     Sucrose avg: 2.545150
+     Lactate avg: 0.000000
+  2. Extracting cell masses...
+     SM total mass: 3.564e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=125] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.46e-15, totM=3.56e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0000, avg=0.0000
+========================================
+[MCS 150] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 150 ===
+  1. Extracting field data...
+     Sucrose avg: 2.545150
+     Lactate avg: 0.000000
+  2. Extracting cell masses...
+     SM total mass: 3.564e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=150] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.46e-15, totM=3.56e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0000, avg=0.0000
+========================================
+[MCS 175] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 175 ===
+  1. Extracting field data...
+     Sucrose avg: 2.545150
+     Lactate avg: 0.000000
+  2. Extracting cell masses...
+     SM total mass: 3.564e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=175] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.46e-15, totM=3.56e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0000, avg=0.0000
+========================================
+[MCS 200] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 200 ===
+  1. Extracting field data...
+     Sucrose avg: 2.545150
+     Lactate avg: 0.000000
+  2. Extracting cell masses...
+     SM total mass: 3.564e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 530.15s
+     Returned 9 fields
+     Σ dM_SM=5.720e-16, Σ dM_VP=-9.990e-21
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=200] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.53e-15, totM=3.62e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 225] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 225 ===
+  1. Extracting field data...
+     Sucrose avg: 2.603367
+     Lactate avg: 0.000000
+  2. Extracting cell masses...
+     SM total mass: 3.621e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=225] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.53e-15, totM=3.62e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+
+=== TIMING STATS (avg of last 10, s) ===
+  field_extraction    : 15.895
+  mass_extraction     : 0.002
+  fipy_solver         : 2828.336
+  volume_update       : 0.002
+  field_update        : 18.089
+  plotting            : 0.006
+  total_step          : 585.216
+========================================
+[MCS 250] alive; cells=15
+Plot MCS 250: SM=8(V=32), VP=7(V=28), Suc=2.603, Lac=0.000
+
+=== BIOLOGY UPDATE at MCS 250 ===
+  1. Extracting field data...
+     Sucrose avg: 2.603367
+     Lactate avg: 0.000000
+  2. Extracting cell masses...
+     SM total mass: 3.621e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=250] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.53e-15, totM=3.62e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 275] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 275 ===
+  1. Extracting field data...
+     Sucrose avg: 2.603367
+     Lactate avg: 0.000000
+  2. Extracting cell masses...
+     SM total mass: 3.621e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=275] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.53e-15, totM=3.62e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 300] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 300 ===
+  1. Extracting field data...
+     Sucrose avg: 2.603367
+     Lactate avg: 0.000000
+  2. Extracting cell masses...
+     SM total mass: 3.621e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 524.61s
+     Returned 9 fields
+     Σ dM_SM=6.432e-16, Σ dM_VP=-9.610e-21
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=300] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.61e-15, totM=3.69e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 325] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 325 ===
+  1. Extracting field data...
+     Sucrose avg: 2.664088
+     Lactate avg: 0.000001
+  2. Extracting cell masses...
+     SM total mass: 3.686e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=325] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.61e-15, totM=3.69e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 350] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 350 ===
+  1. Extracting field data...
+     Sucrose avg: 2.664088
+     Lactate avg: 0.000001
+  2. Extracting cell masses...
+     SM total mass: 3.686e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=350] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.61e-15, totM=3.69e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 375] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 375 ===
+  1. Extracting field data...
+     Sucrose avg: 2.664088
+     Lactate avg: 0.000001
+  2. Extracting cell masses...
+     SM total mass: 3.686e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=375] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.61e-15, totM=3.69e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 400] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 400 ===
+  1. Extracting field data...
+     Sucrose avg: 2.664088
+     Lactate avg: 0.000001
+  2. Extracting cell masses...
+     SM total mass: 3.686e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 518.28s
+     Returned 9 fields
+     Σ dM_SM=7.035e-16, Σ dM_VP=-7.971e-21
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=400] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.69e-15, totM=3.76e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 425] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 425 ===
+  1. Extracting field data...
+     Sucrose avg: 2.725921
+     Lactate avg: 0.000001
+  2. Extracting cell masses...
+     SM total mass: 3.756e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=425] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.69e-15, totM=3.76e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 450] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 450 ===
+  1. Extracting field data...
+     Sucrose avg: 2.725921
+     Lactate avg: 0.000001
+  2. Extracting cell masses...
+     SM total mass: 3.756e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=450] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.69e-15, totM=3.76e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 475] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 475 ===
+  1. Extracting field data...
+     Sucrose avg: 2.725921
+     Lactate avg: 0.000001
+  2. Extracting cell masses...
+     SM total mass: 3.756e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=475] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.69e-15, totM=3.76e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+
+=== TIMING STATS (avg of last 10, s) ===
+  field_extraction    : 16.084
+  mass_extraction     : 0.003
+  fipy_solver         : 1674.892
+  volume_update       : 0.002
+  field_update        : 18.167
+  plotting            : 0.005
+  total_step          : 124.048
+========================================
+[MCS 500] alive; cells=15
+Plot MCS 500: SM=8(V=32), VP=7(V=28), Suc=2.726, Lac=0.000
+
+=== CELL DEBUG MCS 500 ===
+S. mutans: 8, V. parvula: 7, Total: 15
+  SM volume min/avg/max: 4.0/4.0/4.0
+  SM mass   min/avg/max: 4.69e-15/4.69e-15/4.70e-15
+  VP volume min/avg/max: 4.0/4.0/4.0
+  VP mass   min/avg/max: 4.40e-15/4.40e-15/4.40e-15
+
+=== BIOLOGY UPDATE at MCS 500 ===
+  1. Extracting field data...
+     Sucrose avg: 2.725921
+     Lactate avg: 0.000001
+  2. Extracting cell masses...
+     SM total mass: 3.756e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 507.69s
+     Returned 9 fields
+     Σ dM_SM=7.563e-16, Σ dM_VP=-7.624e-21
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=500] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.79e-15, totM=3.83e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 525] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 525 ===
+  1. Extracting field data...
+     Sucrose avg: 2.788174
+     Lactate avg: 0.000001
+  2. Extracting cell masses...
+     SM total mass: 3.832e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=525] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.79e-15, totM=3.83e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 550] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 550 ===
+  1. Extracting field data...
+     Sucrose avg: 2.788174
+     Lactate avg: 0.000001
+  2. Extracting cell masses...
+     SM total mass: 3.832e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=550] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.79e-15, totM=3.83e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 575] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 575 ===
+  1. Extracting field data...
+     Sucrose avg: 2.788174
+     Lactate avg: 0.000001
+  2. Extracting cell masses...
+     SM total mass: 3.832e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=575] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.79e-15, totM=3.83e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 600] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 600 ===
+  1. Extracting field data...
+     Sucrose avg: 2.788174
+     Lactate avg: 0.000001
+  2. Extracting cell masses...
+     SM total mass: 3.832e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 529.17s
+     Returned 9 fields
+     Σ dM_SM=8.012e-16, Σ dM_VP=-7.362e-21
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=600] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.89e-15, totM=3.91e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 625] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 625 ===
+  1. Extracting field data...
+     Sucrose avg: 2.850345
+     Lactate avg: 0.000001
+  2. Extracting cell masses...
+     SM total mass: 3.912e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=625] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.89e-15, totM=3.91e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 650] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 650 ===
+  1. Extracting field data...
+     Sucrose avg: 2.850345
+     Lactate avg: 0.000001
+  2. Extracting cell masses...
+     SM total mass: 3.912e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=650] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.89e-15, totM=3.91e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 675] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 675 ===
+  1. Extracting field data...
+     Sucrose avg: 2.850345
+     Lactate avg: 0.000001
+  2. Extracting cell masses...
+     SM total mass: 3.912e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=675] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=4.89e-15, totM=3.91e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 700] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 700 ===
+  1. Extracting field data...
+     Sucrose avg: 2.850345
+     Lactate avg: 0.000001
+  2. Extracting cell masses...
+     SM total mass: 3.912e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 523.99s
+     Returned 9 fields
+     Σ dM_SM=8.450e-16, Σ dM_VP=-7.005e-21
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=700] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.00e-15, totM=4.00e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 725] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 725 ===
+  1. Extracting field data...
+     Sucrose avg: 2.912039
+     Lactate avg: 0.000001
+  2. Extracting cell masses...
+     SM total mass: 3.996e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=725] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.00e-15, totM=4.00e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+
+=== TIMING STATS (avg of last 10, s) ===
+  field_extraction    : 16.725
+  mass_extraction     : 0.002
+  fipy_solver         : 1180.061
+  volume_update       : 0.002
+  field_update        : 18.416
+  plotting            : 0.003
+  total_step          : 178.461
+========================================
+[MCS 750] alive; cells=15
+Plot MCS 750: SM=8(V=32), VP=7(V=28), Suc=2.912, Lac=0.000
+
+=== BIOLOGY UPDATE at MCS 750 ===
+  1. Extracting field data...
+     Sucrose avg: 2.912039
+     Lactate avg: 0.000001
+  2. Extracting cell masses...
+     SM total mass: 3.996e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=750] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.00e-15, totM=4.00e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 775] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 775 ===
+  1. Extracting field data...
+     Sucrose avg: 2.912039
+     Lactate avg: 0.000001
+  2. Extracting cell masses...
+     SM total mass: 3.996e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=775] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.00e-15, totM=4.00e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 800] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 800 ===
+  1. Extracting field data...
+     Sucrose avg: 2.912039
+     Lactate avg: 0.000001
+  2. Extracting cell masses...
+     SM total mass: 3.996e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 566.87s
+     Returned 9 fields
+     Σ dM_SM=8.863e-16, Σ dM_VP=-6.032e-21
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=800] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.11e-15, totM=4.08e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 825] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 825 ===
+  1. Extracting field data...
+     Sucrose avg: 2.972946
+     Lactate avg: 0.000002
+  2. Extracting cell masses...
+     SM total mass: 4.085e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=825] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.11e-15, totM=4.08e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 850] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 850 ===
+  1. Extracting field data...
+     Sucrose avg: 2.972946
+     Lactate avg: 0.000002
+  2. Extracting cell masses...
+     SM total mass: 4.085e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=850] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.11e-15, totM=4.08e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 875] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 875 ===
+  1. Extracting field data...
+     Sucrose avg: 2.972946
+     Lactate avg: 0.000002
+  2. Extracting cell masses...
+     SM total mass: 4.085e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=875] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.11e-15, totM=4.08e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 900] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 900 ===
+  1. Extracting field data...
+     Sucrose avg: 2.972946
+     Lactate avg: 0.000002
+  2. Extracting cell masses...
+     SM total mass: 4.085e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 601.33s
+     Returned 9 fields
+     Σ dM_SM=9.256e-16, Σ dM_VP=-6.275e-21
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=900] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.22e-15, totM=4.18e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 925] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 925 ===
+  1. Extracting field data...
+     Sucrose avg: 3.032832
+     Lactate avg: 0.000002
+  2. Extracting cell masses...
+     SM total mass: 4.177e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=925] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.22e-15, totM=4.18e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 950] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 950 ===
+  1. Extracting field data...
+     Sucrose avg: 3.032832
+     Lactate avg: 0.000002
+  2. Extracting cell masses...
+     SM total mass: 4.177e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=950] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.22e-15, totM=4.18e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+[MCS 975] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 975 ===
+  1. Extracting field data...
+     Sucrose avg: 3.032832
+     Lactate avg: 0.000002
+  2. Extracting cell masses...
+     SM total mass: 4.177e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=975] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.22e-15, totM=4.18e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0001, avg=0.0000
+========================================
+
+=== TIMING STATS (avg of last 10, s) ===
+  field_extraction    : 16.244
+  mass_extraction     : 0.003
+  fipy_solver         : 1047.625
+  volume_update       : 0.002
+  field_update        : 18.391
+  plotting            : 0.004
+  total_step          : 136.759
+========================================
+[MCS 1000] alive; cells=15
+Plot MCS 1000: SM=8(V=32), VP=7(V=28), Suc=3.033, Lac=0.000
+
+=== CELL DEBUG MCS 1000 ===
+S. mutans: 8, V. parvula: 7, Total: 15
+  SM volume min/avg/max: 4.0/4.0/4.0
+  SM mass   min/avg/max: 5.22e-15/5.22e-15/5.23e-15
+  VP volume min/avg/max: 4.0/4.0/4.0
+  VP mass   min/avg/max: 4.40e-15/4.40e-15/4.40e-15
+
+=== BIOLOGY UPDATE at MCS 1000 ===
+  1. Extracting field data...
+     Sucrose avg: 3.032832
+     Lactate avg: 0.000002
+  2. Extracting cell masses...
+     SM total mass: 4.177e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 527.45s
+     Returned 9 fields
+     Σ dM_SM=9.642e-16, Σ dM_VP=-6.753e-21
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=1000] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.34e-15, totM=4.27e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1025] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1025 ===
+  1. Extracting field data...
+     Sucrose avg: 3.091528
+     Lactate avg: 0.000002
+  2. Extracting cell masses...
+     SM total mass: 4.274e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1025] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.34e-15, totM=4.27e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1050] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1050 ===
+  1. Extracting field data...
+     Sucrose avg: 3.091528
+     Lactate avg: 0.000002
+  2. Extracting cell masses...
+     SM total mass: 4.274e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1050] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.34e-15, totM=4.27e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1075] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1075 ===
+  1. Extracting field data...
+     Sucrose avg: 3.091528
+     Lactate avg: 0.000002
+  2. Extracting cell masses...
+     SM total mass: 4.274e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1075] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.34e-15, totM=4.27e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1100] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1100 ===
+  1. Extracting field data...
+     Sucrose avg: 3.091528
+     Lactate avg: 0.000002
+  2. Extracting cell masses...
+     SM total mass: 4.274e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 622.51s
+     Returned 9 fields
+     Σ dM_SM=1.004e-15, Σ dM_VP=-4.375e-21
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=1100] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.47e-15, totM=4.37e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1125] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1125 ===
+  1. Extracting field data...
+     Sucrose avg: 3.148912
+     Lactate avg: 0.000002
+  2. Extracting cell masses...
+     SM total mass: 4.374e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1125] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.47e-15, totM=4.37e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1150] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1150 ===
+  1. Extracting field data...
+     Sucrose avg: 3.148912
+     Lactate avg: 0.000002
+  2. Extracting cell masses...
+     SM total mass: 4.374e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1150] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.47e-15, totM=4.37e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1175] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1175 ===
+  1. Extracting field data...
+     Sucrose avg: 3.148912
+     Lactate avg: 0.000002
+  2. Extracting cell masses...
+     SM total mass: 4.374e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1175] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.47e-15, totM=4.37e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1200] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1200 ===
+  1. Extracting field data...
+     Sucrose avg: 3.148912
+     Lactate avg: 0.000002
+  2. Extracting cell masses...
+     SM total mass: 4.374e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 533.25s
+     Returned 9 fields
+     Σ dM_SM=1.042e-15, Σ dM_VP=-4.732e-21
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=1200] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.60e-15, totM=4.48e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1225] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1225 ===
+  1. Extracting field data...
+     Sucrose avg: 3.204907
+     Lactate avg: 0.000003
+  2. Extracting cell masses...
+     SM total mass: 4.478e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1225] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.60e-15, totM=4.48e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+
+=== TIMING STATS (avg of last 10, s) ===
+  field_extraction    : 18.478
+  mass_extraction     : 0.003
+  fipy_solver         : 545.517
+  volume_update       : 0.002
+  field_update        : 19.006
+  plotting            : 0.004
+  total_step          : 192.900
+========================================
+[MCS 1250] alive; cells=15
+Plot MCS 1250: SM=8(V=32), VP=7(V=28), Suc=3.205, Lac=0.000
+
+=== BIOLOGY UPDATE at MCS 1250 ===
+  1. Extracting field data...
+     Sucrose avg: 3.204907
+     Lactate avg: 0.000003
+  2. Extracting cell masses...
+     SM total mass: 4.478e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1250] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.60e-15, totM=4.48e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1275] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1275 ===
+  1. Extracting field data...
+     Sucrose avg: 3.204907
+     Lactate avg: 0.000003
+  2. Extracting cell masses...
+     SM total mass: 4.478e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1275] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.60e-15, totM=4.48e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1300] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1300 ===
+  1. Extracting field data...
+     Sucrose avg: 3.204907
+     Lactate avg: 0.000003
+  2. Extracting cell masses...
+     SM total mass: 4.478e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 490.93s
+     Returned 9 fields
+     Σ dM_SM=1.081e-15, Σ dM_VP=-3.383e-21
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=1300] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.73e-15, totM=4.59e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1325] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1325 ===
+  1. Extracting field data...
+     Sucrose avg: 3.259462
+     Lactate avg: 0.000003
+  2. Extracting cell masses...
+     SM total mass: 4.587e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1325] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.73e-15, totM=4.59e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1350] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1350 ===
+  1. Extracting field data...
+     Sucrose avg: 3.259462
+     Lactate avg: 0.000003
+  2. Extracting cell masses...
+     SM total mass: 4.587e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1350] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.73e-15, totM=4.59e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1375] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1375 ===
+  1. Extracting field data...
+     Sucrose avg: 3.259462
+     Lactate avg: 0.000003
+  2. Extracting cell masses...
+     SM total mass: 4.587e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1375] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.73e-15, totM=4.59e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1400] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1400 ===
+  1. Extracting field data...
+     Sucrose avg: 3.259462
+     Lactate avg: 0.000003
+  2. Extracting cell masses...
+     SM total mass: 4.587e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 488.46s
+     Returned 9 fields
+     Σ dM_SM=1.119e-15, Σ dM_VP=-1.402e-21
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=1400] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.87e-15, totM=4.70e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1425] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1425 ===
+  1. Extracting field data...
+     Sucrose avg: 3.312553
+     Lactate avg: 0.000003
+  2. Extracting cell masses...
+     SM total mass: 4.698e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1425] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.87e-15, totM=4.70e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1450] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1450 ===
+  1. Extracting field data...
+     Sucrose avg: 3.312553
+     Lactate avg: 0.000003
+  2. Extracting cell masses...
+     SM total mass: 4.698e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1450] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.87e-15, totM=4.70e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1475] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1475 ===
+  1. Extracting field data...
+     Sucrose avg: 3.312553
+     Lactate avg: 0.000003
+  2. Extracting cell masses...
+     SM total mass: 4.698e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1475] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=5.87e-15, totM=4.70e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+
+=== TIMING STATS (avg of last 10, s) ===
+  field_extraction    : 16.137
+  mass_extraction     : 0.003
+  fipy_solver         : 539.167
+  volume_update       : 0.002
+  field_update        : 18.966
+  plotting            : 0.004
+  total_step          : 117.709
+========================================
+[MCS 1500] alive; cells=15
+Plot MCS 1500: SM=8(V=32), VP=7(V=28), Suc=3.312, Lac=0.000
+
+=== CELL DEBUG MCS 1500 ===
+S. mutans: 8, V. parvula: 7, Total: 15
+  SM volume min/avg/max: 4.0/4.0/4.0
+  SM mass   min/avg/max: 5.87e-15/5.87e-15/5.88e-15
+  VP volume min/avg/max: 4.0/4.0/4.0
+  VP mass   min/avg/max: 4.40e-15/4.40e-15/4.40e-15
+
+=== BIOLOGY UPDATE at MCS 1500 ===
+  1. Extracting field data...
+     Sucrose avg: 3.312553
+     Lactate avg: 0.000003
+  2. Extracting cell masses...
+     SM total mass: 4.698e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 483.68s
+     Returned 9 fields
+     Σ dM_SM=1.157e-15, Σ dM_VP=-1.684e-21
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=1500] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.02e-15, totM=4.81e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1525] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1525 ===
+  1. Extracting field data...
+     Sucrose avg: 3.364170
+     Lactate avg: 0.000003
+  2. Extracting cell masses...
+     SM total mass: 4.814e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1525] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.02e-15, totM=4.81e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1550] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1550 ===
+  1. Extracting field data...
+     Sucrose avg: 3.364170
+     Lactate avg: 0.000003
+  2. Extracting cell masses...
+     SM total mass: 4.814e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1550] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.02e-15, totM=4.81e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1575] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1575 ===
+  1. Extracting field data...
+     Sucrose avg: 3.364170
+     Lactate avg: 0.000003
+  2. Extracting cell masses...
+     SM total mass: 4.814e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1575] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.02e-15, totM=4.81e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1600] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1600 ===
+  1. Extracting field data...
+     Sucrose avg: 3.364170
+     Lactate avg: 0.000003
+  2. Extracting cell masses...
+     SM total mass: 4.814e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 534.36s
+     Returned 9 fields
+     Σ dM_SM=1.197e-15, Σ dM_VP=-3.222e-21
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=1600] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.17e-15, totM=4.93e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1625] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1625 ===
+  1. Extracting field data...
+     Sucrose avg: 3.414320
+     Lactate avg: 0.000004
+  2. Extracting cell masses...
+     SM total mass: 4.934e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1625] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.17e-15, totM=4.93e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1650] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1650 ===
+  1. Extracting field data...
+     Sucrose avg: 3.414320
+     Lactate avg: 0.000004
+  2. Extracting cell masses...
+     SM total mass: 4.934e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1650] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.17e-15, totM=4.93e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1675] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1675 ===
+  1. Extracting field data...
+     Sucrose avg: 3.414320
+     Lactate avg: 0.000004
+  2. Extracting cell masses...
+     SM total mass: 4.934e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1675] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.17e-15, totM=4.93e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1700] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1700 ===
+  1. Extracting field data...
+     Sucrose avg: 3.414320
+     Lactate avg: 0.000004
+  2. Extracting cell masses...
+     SM total mass: 4.934e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 564.16s
+     Returned 9 fields
+     Σ dM_SM=1.237e-15, Σ dM_VP=-4.655e-22
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=1700] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.32e-15, totM=5.06e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1725] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1725 ===
+  1. Extracting field data...
+     Sucrose avg: 3.463017
+     Lactate avg: 0.000004
+  2. Extracting cell masses...
+     SM total mass: 5.058e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1725] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.32e-15, totM=5.06e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+
+=== TIMING STATS (avg of last 10, s) ===
+  field_extraction    : 16.352
+  mass_extraction     : 0.003
+  fipy_solver         : 541.303
+  volume_update       : 0.002
+  field_update        : 19.055
+  plotting            : 0.003
+  total_step          : 180.316
+========================================
+[MCS 1750] alive; cells=15
+Plot MCS 1750: SM=8(V=32), VP=7(V=28), Suc=3.463, Lac=0.000
+
+=== BIOLOGY UPDATE at MCS 1750 ===
+  1. Extracting field data...
+     Sucrose avg: 3.463017
+     Lactate avg: 0.000004
+  2. Extracting cell masses...
+     SM total mass: 5.058e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1750] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.32e-15, totM=5.06e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1775] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1775 ===
+  1. Extracting field data...
+     Sucrose avg: 3.463017
+     Lactate avg: 0.000004
+  2. Extracting cell masses...
+     SM total mass: 5.058e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1775] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.32e-15, totM=5.06e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1800] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1800 ===
+  1. Extracting field data...
+     Sucrose avg: 3.463017
+     Lactate avg: 0.000004
+  2. Extracting cell masses...
+     SM total mass: 5.058e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 620.68s
+     Returned 9 fields
+     Σ dM_SM=1.279e-15, Σ dM_VP=8.834e-22
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=1800] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.48e-15, totM=5.19e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1825] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1825 ===
+  1. Extracting field data...
+     Sucrose avg: 3.510282
+     Lactate avg: 0.000004
+  2. Extracting cell masses...
+     SM total mass: 5.185e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1825] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.48e-15, totM=5.19e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1850] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1850 ===
+  1. Extracting field data...
+     Sucrose avg: 3.510282
+     Lactate avg: 0.000004
+  2. Extracting cell masses...
+     SM total mass: 5.185e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1850] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.48e-15, totM=5.19e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1875] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1875 ===
+  1. Extracting field data...
+     Sucrose avg: 3.510282
+     Lactate avg: 0.000004
+  2. Extracting cell masses...
+     SM total mass: 5.185e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1875] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.48e-15, totM=5.19e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1900] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1900 ===
+  1. Extracting field data...
+     Sucrose avg: 3.510282
+     Lactate avg: 0.000004
+  2. Extracting cell masses...
+     SM total mass: 5.185e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 602.97s
+     Returned 9 fields
+     Σ dM_SM=1.321e-15, Σ dM_VP=2.272e-21
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=1900] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.65e-15, totM=5.32e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1925] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1925 ===
+  1. Extracting field data...
+     Sucrose avg: 3.556142
+     Lactate avg: 0.000004
+  2. Extracting cell masses...
+     SM total mass: 5.318e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1925] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.65e-15, totM=5.32e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1950] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1950 ===
+  1. Extracting field data...
+     Sucrose avg: 3.556142
+     Lactate avg: 0.000004
+  2. Extracting cell masses...
+     SM total mass: 5.318e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1950] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.65e-15, totM=5.32e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 1975] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 1975 ===
+  1. Extracting field data...
+     Sucrose avg: 3.556142
+     Lactate avg: 0.000004
+  2. Extracting cell masses...
+     SM total mass: 5.318e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=1975] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.65e-15, totM=5.32e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+
+=== TIMING STATS (avg of last 10, s) ===
+  field_extraction    : 17.866
+  mass_extraction     : 0.002
+  fipy_solver         : 546.848
+  volume_update       : 0.002
+  field_update        : 19.503
+  plotting            : 0.004
+  total_step          : 144.366
+========================================
+[MCS 2000] alive; cells=15
+Plot MCS 2000: SM=8(V=32), VP=7(V=28), Suc=3.556, Lac=0.000
+
+=== CELL DEBUG MCS 2000 ===
+S. mutans: 8, V. parvula: 7, Total: 15
+  SM volume min/avg/max: 4.0/4.0/4.0
+  SM mass   min/avg/max: 6.64e-15/6.65e-15/6.65e-15
+  VP volume min/avg/max: 4.0/4.0/4.0
+  VP mass   min/avg/max: 4.40e-15/4.40e-15/4.40e-15
+
+=== BIOLOGY UPDATE at MCS 2000 ===
+  1. Extracting field data...
+     Sucrose avg: 3.556142
+     Lactate avg: 0.000004
+  2. Extracting cell masses...
+     SM total mass: 5.318e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 3252.27s
+     Returned 9 fields
+     Σ dM_SM=1.363e-15, Σ dM_VP=2.968e-21
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=2000] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.82e-15, totM=5.45e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 2025] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2025 ===
+  1. Extracting field data...
+     Sucrose avg: 3.600626
+     Lactate avg: 0.000005
+  2. Extracting cell masses...
+     SM total mass: 5.454e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2025] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.82e-15, totM=5.45e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 2050] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2050 ===
+  1. Extracting field data...
+     Sucrose avg: 3.600626
+     Lactate avg: 0.000005
+  2. Extracting cell masses...
+     SM total mass: 5.454e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2050] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.82e-15, totM=5.45e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 2075] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2075 ===
+  1. Extracting field data...
+     Sucrose avg: 3.600626
+     Lactate avg: 0.000005
+  2. Extracting cell masses...
+     SM total mass: 5.454e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2075] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.82e-15, totM=5.45e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 2100] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2100 ===
+  1. Extracting field data...
+     Sucrose avg: 3.600626
+     Lactate avg: 0.000005
+  2. Extracting cell masses...
+     SM total mass: 5.454e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 540.47s
+     Returned 9 fields
+     Σ dM_SM=1.406e-15, Σ dM_VP=3.571e-21
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=2100] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.99e-15, totM=5.59e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 2125] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2125 ===
+  1. Extracting field data...
+     Sucrose avg: 3.643769
+     Lactate avg: 0.000005
+  2. Extracting cell masses...
+     SM total mass: 5.595e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2125] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.99e-15, totM=5.59e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 2150] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2150 ===
+  1. Extracting field data...
+     Sucrose avg: 3.643769
+     Lactate avg: 0.000005
+  2. Extracting cell masses...
+     SM total mass: 5.595e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2150] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.99e-15, totM=5.59e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 2175] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2175 ===
+  1. Extracting field data...
+     Sucrose avg: 3.643769
+     Lactate avg: 0.000005
+  2. Extracting cell masses...
+     SM total mass: 5.595e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2175] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=6.99e-15, totM=5.59e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 2200] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2200 ===
+  1. Extracting field data...
+     Sucrose avg: 3.643769
+     Lactate avg: 0.000005
+  2. Extracting cell masses...
+     SM total mass: 5.595e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 538.55s
+     Returned 9 fields
+     Σ dM_SM=1.451e-15, Σ dM_VP=7.938e-21
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=2200] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=7.17e-15, totM=5.74e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 2225] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2225 ===
+  1. Extracting field data...
+     Sucrose avg: 3.685602
+     Lactate avg: 0.000005
+  2. Extracting cell masses...
+     SM total mass: 5.740e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2225] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=7.17e-15, totM=5.74e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+
+=== TIMING STATS (avg of last 10, s) ===
+  field_extraction    : 16.901
+  mass_extraction     : 0.002
+  fipy_solver         : 811.657
+  volume_update       : 0.002
+  field_update        : 19.444
+  plotting            : 0.004
+  total_step          : 456.071
+========================================
+[MCS 2250] alive; cells=15
+Plot MCS 2250: SM=8(V=32), VP=7(V=28), Suc=3.685, Lac=0.000
+
+=== BIOLOGY UPDATE at MCS 2250 ===
+  1. Extracting field data...
+     Sucrose avg: 3.685602
+     Lactate avg: 0.000005
+  2. Extracting cell masses...
+     SM total mass: 5.740e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2250] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=7.17e-15, totM=5.74e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 2275] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2275 ===
+  1. Extracting field data...
+     Sucrose avg: 3.685602
+     Lactate avg: 0.000005
+  2. Extracting cell masses...
+     SM total mass: 5.740e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2275] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=7.17e-15, totM=5.74e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0002, avg=0.0000
+========================================
+[MCS 2300] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2300 ===
+  1. Extracting field data...
+     Sucrose avg: 3.685602
+     Lactate avg: 0.000005
+  2. Extracting cell masses...
+     SM total mass: 5.740e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 532.52s
+     Returned 9 fields
+     Σ dM_SM=1.497e-15, Σ dM_VP=7.735e-21
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=2300] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=7.36e-15, totM=5.89e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2325] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2325 ===
+  1. Extracting field data...
+     Sucrose avg: 3.726160
+     Lactate avg: 0.000006
+  2. Extracting cell masses...
+     SM total mass: 5.889e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2325] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=7.36e-15, totM=5.89e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2350] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2350 ===
+  1. Extracting field data...
+     Sucrose avg: 3.726160
+     Lactate avg: 0.000006
+  2. Extracting cell masses...
+     SM total mass: 5.889e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2350] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=7.36e-15, totM=5.89e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2375] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2375 ===
+  1. Extracting field data...
+     Sucrose avg: 3.726160
+     Lactate avg: 0.000006
+  2. Extracting cell masses...
+     SM total mass: 5.889e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2375] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=7.36e-15, totM=5.89e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2400] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2400 ===
+  1. Extracting field data...
+     Sucrose avg: 3.726160
+     Lactate avg: 0.000006
+  2. Extracting cell masses...
+     SM total mass: 5.889e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 537.21s
+     Returned 9 fields
+     Σ dM_SM=1.543e-15, Σ dM_VP=8.665e-21
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=2400] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=7.55e-15, totM=6.04e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2425] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2425 ===
+  1. Extracting field data...
+     Sucrose avg: 3.765480
+     Lactate avg: 0.000006
+  2. Extracting cell masses...
+     SM total mass: 6.044e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2425] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=7.55e-15, totM=6.04e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2450] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2450 ===
+  1. Extracting field data...
+     Sucrose avg: 3.765480
+     Lactate avg: 0.000006
+  2. Extracting cell masses...
+     SM total mass: 6.044e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2450] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=7.55e-15, totM=6.04e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2475] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2475 ===
+  1. Extracting field data...
+     Sucrose avg: 3.765480
+     Lactate avg: 0.000006
+  2. Extracting cell masses...
+     SM total mass: 6.044e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2475] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=7.55e-15, totM=6.04e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+
+=== TIMING STATS (avg of last 10, s) ===
+  field_extraction    : 16.588
+  mass_extraction     : 0.002
+  fipy_solver         : 820.691
+  volume_update       : 0.002
+  field_update        : 19.776
+  plotting            : 0.004
+  total_step          : 127.524
+========================================
+[MCS 2500] alive; cells=15
+Plot MCS 2500: SM=8(V=32), VP=7(V=28), Suc=3.765, Lac=0.000
+
+=== CELL DEBUG MCS 2500 ===
+S. mutans: 8, V. parvula: 7, Total: 15
+  SM volume min/avg/max: 4.0/4.0/4.0
+  SM mass   min/avg/max: 7.55e-15/7.55e-15/7.56e-15
+  VP volume min/avg/max: 4.0/4.0/4.0
+  VP mass   min/avg/max: 4.40e-15/4.40e-15/4.40e-15
+
+=== BIOLOGY UPDATE at MCS 2500 ===
+  1. Extracting field data...
+     Sucrose avg: 3.765480
+     Lactate avg: 0.000006
+  2. Extracting cell masses...
+     SM total mass: 6.044e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 545.32s
+     Returned 9 fields
+     Σ dM_SM=1.592e-15, Σ dM_VP=1.641e-20
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=2500] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=7.75e-15, totM=6.20e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2525] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2525 ===
+  1. Extracting field data...
+     Sucrose avg: 3.803594
+     Lactate avg: 0.000006
+  2. Extracting cell masses...
+     SM total mass: 6.203e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2525] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=7.75e-15, totM=6.20e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2550] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2550 ===
+  1. Extracting field data...
+     Sucrose avg: 3.803594
+     Lactate avg: 0.000006
+  2. Extracting cell masses...
+     SM total mass: 6.203e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2550] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=7.75e-15, totM=6.20e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2575] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2575 ===
+  1. Extracting field data...
+     Sucrose avg: 3.803594
+     Lactate avg: 0.000006
+  2. Extracting cell masses...
+     SM total mass: 6.203e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2575] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=7.75e-15, totM=6.20e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2600] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2600 ===
+  1. Extracting field data...
+     Sucrose avg: 3.803594
+     Lactate avg: 0.000006
+  2. Extracting cell masses...
+     SM total mass: 6.203e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 543.19s
+     Returned 9 fields
+     Σ dM_SM=1.640e-15, Σ dM_VP=1.534e-20
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=2600] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=7.96e-15, totM=6.37e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2625] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2625 ===
+  1. Extracting field data...
+     Sucrose avg: 3.840539
+     Lactate avg: 0.000007
+  2. Extracting cell masses...
+     SM total mass: 6.367e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2625] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=7.96e-15, totM=6.37e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2650] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2650 ===
+  1. Extracting field data...
+     Sucrose avg: 3.840539
+     Lactate avg: 0.000007
+  2. Extracting cell masses...
+     SM total mass: 6.367e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2650] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=7.96e-15, totM=6.37e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2675] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2675 ===
+  1. Extracting field data...
+     Sucrose avg: 3.840539
+     Lactate avg: 0.000007
+  2. Extracting cell masses...
+     SM total mass: 6.367e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2675] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=7.96e-15, totM=6.37e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2700] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2700 ===
+  1. Extracting field data...
+     Sucrose avg: 3.840539
+     Lactate avg: 0.000007
+  2. Extracting cell masses...
+     SM total mass: 6.367e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 540.18s
+     Returned 9 fields
+     Σ dM_SM=1.691e-15, Σ dM_VP=1.735e-20
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=2700] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=8.17e-15, totM=6.54e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2725] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2725 ===
+  1. Extracting field data...
+     Sucrose avg: 3.876349
+     Lactate avg: 0.000007
+  2. Extracting cell masses...
+     SM total mass: 6.536e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2725] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=8.17e-15, totM=6.54e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+
+=== TIMING STATS (avg of last 10, s) ===
+  field_extraction    : 16.865
+  mass_extraction     : 0.002
+  fipy_solver         : 825.339
+  volume_update       : 0.002
+  field_update        : 19.929
+  plotting            : 0.004
+  total_step          : 185.627
+========================================
+[MCS 2750] alive; cells=15
+Plot MCS 2750: SM=8(V=32), VP=7(V=28), Suc=3.876, Lac=0.000
+
+=== BIOLOGY UPDATE at MCS 2750 ===
+  1. Extracting field data...
+     Sucrose avg: 3.876349
+     Lactate avg: 0.000007
+  2. Extracting cell masses...
+     SM total mass: 6.536e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2750] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=8.17e-15, totM=6.54e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2775] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2775 ===
+  1. Extracting field data...
+     Sucrose avg: 3.876349
+     Lactate avg: 0.000007
+  2. Extracting cell masses...
+     SM total mass: 6.536e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2775] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=8.17e-15, totM=6.54e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2800] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2800 ===
+  1. Extracting field data...
+     Sucrose avg: 3.876349
+     Lactate avg: 0.000007
+  2. Extracting cell masses...
+     SM total mass: 6.536e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 539.36s
+     Returned 9 fields
+     Σ dM_SM=1.742e-15, Σ dM_VP=1.573e-20
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=2800] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=8.39e-15, totM=6.71e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2825] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2825 ===
+  1. Extracting field data...
+     Sucrose avg: 3.911056
+     Lactate avg: 0.000007
+  2. Extracting cell masses...
+     SM total mass: 6.710e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2825] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=8.39e-15, totM=6.71e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2850] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2850 ===
+  1. Extracting field data...
+     Sucrose avg: 3.911056
+     Lactate avg: 0.000007
+  2. Extracting cell masses...
+     SM total mass: 6.710e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2850] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=8.39e-15, totM=6.71e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2875] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2875 ===
+  1. Extracting field data...
+     Sucrose avg: 3.911056
+     Lactate avg: 0.000007
+  2. Extracting cell masses...
+     SM total mass: 6.710e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2875] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=8.39e-15, totM=6.71e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2900] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2900 ===
+  1. Extracting field data...
+     Sucrose avg: 3.911056
+     Lactate avg: 0.000007
+  2. Extracting cell masses...
+     SM total mass: 6.710e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 536.84s
+     Returned 9 fields
+     Σ dM_SM=1.795e-15, Σ dM_VP=1.837e-20
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=2900] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=8.61e-15, totM=6.89e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2925] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2925 ===
+  1. Extracting field data...
+     Sucrose avg: 3.944694
+     Lactate avg: 0.000008
+  2. Extracting cell masses...
+     SM total mass: 6.890e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2925] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=8.61e-15, totM=6.89e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2950] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2950 ===
+  1. Extracting field data...
+     Sucrose avg: 3.944694
+     Lactate avg: 0.000008
+  2. Extracting cell masses...
+     SM total mass: 6.890e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2950] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=8.61e-15, totM=6.89e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 2975] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 2975 ===
+  1. Extracting field data...
+     Sucrose avg: 3.944694
+     Lactate avg: 0.000008
+  2. Extracting cell masses...
+     SM total mass: 6.890e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=2975] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=8.61e-15, totM=6.89e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+
+=== TIMING STATS (avg of last 10, s) ===
+  field_extraction    : 16.916
+  mass_extraction     : 0.003
+  fipy_solver         : 810.594
+  volume_update       : 0.002
+  field_update        : 19.850
+  plotting            : 0.004
+  total_step          : 128.593
+========================================
+[MCS 3000] alive; cells=15
+Plot MCS 3000: SM=8(V=32), VP=7(V=28), Suc=3.945, Lac=0.000
+
+=== CELL DEBUG MCS 3000 ===
+S. mutans: 8, V. parvula: 7, Total: 15
+  SM volume min/avg/max: 4.0/4.0/4.0
+  SM mass   min/avg/max: 8.60e-15/8.61e-15/8.62e-15
+  VP volume min/avg/max: 4.0/4.0/4.0
+  VP mass   min/avg/max: 4.40e-15/4.40e-15/4.40e-15
+
+=== BIOLOGY UPDATE at MCS 3000 ===
+  1. Extracting field data...
+     Sucrose avg: 3.944694
+     Lactate avg: 0.000008
+  2. Extracting cell masses...
+     SM total mass: 6.890e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 534.85s
+     Returned 9 fields
+     Σ dM_SM=1.850e-15, Σ dM_VP=2.339e-20
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=3000] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=8.84e-15, totM=7.07e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 3025] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 3025 ===
+  1. Extracting field data...
+     Sucrose avg: 3.977295
+     Lactate avg: 0.000008
+  2. Extracting cell masses...
+     SM total mass: 7.075e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=3025] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=8.84e-15, totM=7.07e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 3050] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 3050 ===
+  1. Extracting field data...
+     Sucrose avg: 3.977295
+     Lactate avg: 0.000008
+  2. Extracting cell masses...
+     SM total mass: 7.075e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=3050] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=8.84e-15, totM=7.07e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 3075] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 3075 ===
+  1. Extracting field data...
+     Sucrose avg: 3.977295
+     Lactate avg: 0.000008
+  2. Extracting cell masses...
+     SM total mass: 7.075e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=3075] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=8.84e-15, totM=7.07e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 3100] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 3100 ===
+  1. Extracting field data...
+     Sucrose avg: 3.977295
+     Lactate avg: 0.000008
+  2. Extracting cell masses...
+     SM total mass: 7.075e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 536.53s
+     Returned 9 fields
+     Σ dM_SM=1.906e-15, Σ dM_VP=2.325e-20
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=3100] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=9.08e-15, totM=7.27e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 3125] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 3125 ===
+  1. Extracting field data...
+     Sucrose avg: 4.008891
+     Lactate avg: 0.000009
+  2. Extracting cell masses...
+     SM total mass: 7.265e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=3125] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=9.08e-15, totM=7.27e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 3150] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 3150 ===
+  1. Extracting field data...
+     Sucrose avg: 4.008891
+     Lactate avg: 0.000009
+  2. Extracting cell masses...
+     SM total mass: 7.265e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=3150] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=9.08e-15, totM=7.27e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 3175] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 3175 ===
+  1. Extracting field data...
+     Sucrose avg: 4.008891
+     Lactate avg: 0.000009
+  2. Extracting cell masses...
+     SM total mass: 7.265e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=3175] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=9.08e-15, totM=7.27e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 3200] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 3200 ===
+  1. Extracting field data...
+     Sucrose avg: 4.008891
+     Lactate avg: 0.000009
+  2. Extracting cell masses...
+     SM total mass: 7.265e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 548.72s
+     Returned 9 fields
+     Σ dM_SM=1.963e-15, Σ dM_VP=2.011e-20
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=3200] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=9.33e-15, totM=7.46e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 3225] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 3225 ===
+  1. Extracting field data...
+     Sucrose avg: 4.039512
+     Lactate avg: 0.000009
+  2. Extracting cell masses...
+     SM total mass: 7.462e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=3225] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=9.33e-15, totM=7.46e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+
+=== TIMING STATS (avg of last 10, s) ===
+  field_extraction    : 16.563
+  mass_extraction     : 0.002
+  fipy_solver         : 539.474
+  volume_update       : 0.002
+  field_update        : 19.682
+  plotting            : 0.003
+  total_step          : 184.448
+========================================
+[MCS 3250] alive; cells=15
+Plot MCS 3250: SM=8(V=32), VP=7(V=28), Suc=4.039, Lac=0.000
+
+=== BIOLOGY UPDATE at MCS 3250 ===
+  1. Extracting field data...
+     Sucrose avg: 4.039512
+     Lactate avg: 0.000009
+  2. Extracting cell masses...
+     SM total mass: 7.462e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=3250] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=9.33e-15, totM=7.46e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 3275] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 3275 ===
+  1. Extracting field data...
+     Sucrose avg: 4.039512
+     Lactate avg: 0.000009
+  2. Extracting cell masses...
+     SM total mass: 7.462e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=3275] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=9.33e-15, totM=7.46e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 3300] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 3300 ===
+  1. Extracting field data...
+     Sucrose avg: 4.039512
+     Lactate avg: 0.000009
+  2. Extracting cell masses...
+     SM total mass: 7.462e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 531.17s
+     Returned 9 fields
+     Σ dM_SM=2.022e-15, Σ dM_VP=1.885e-20
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=3300] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=9.58e-15, totM=7.66e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 3325] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 3325 ===
+  1. Extracting field data...
+     Sucrose avg: 4.069188
+     Lactate avg: 0.000010
+  2. Extracting cell masses...
+     SM total mass: 7.664e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=3325] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=9.58e-15, totM=7.66e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 3350] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 3350 ===
+  1. Extracting field data...
+     Sucrose avg: 4.069188
+     Lactate avg: 0.000010
+  2. Extracting cell masses...
+     SM total mass: 7.664e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=3350] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=9.58e-15, totM=7.66e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 3375] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 3375 ===
+  1. Extracting field data...
+     Sucrose avg: 4.069188
+     Lactate avg: 0.000010
+  2. Extracting cell masses...
+     SM total mass: 7.664e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=3375] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=9.58e-15, totM=7.66e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0003, avg=0.0000
+========================================
+[MCS 3400] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 3400 ===
+  1. Extracting field data...
+     Sucrose avg: 4.069188
+     Lactate avg: 0.000010
+  2. Extracting cell masses...
+     SM total mass: 7.664e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 533.74s
+     Returned 9 fields
+     Σ dM_SM=2.082e-15, Σ dM_VP=1.757e-20
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=3400] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=9.84e-15, totM=7.87e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0004, avg=0.0000
+========================================
+[MCS 3425] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 3425 ===
+  1. Extracting field data...
+     Sucrose avg: 4.097947
+     Lactate avg: 0.000010
+  2. Extracting cell masses...
+     SM total mass: 7.872e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=3425] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=9.84e-15, totM=7.87e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0004, avg=0.0000
+========================================
+[MCS 3450] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 3450 ===
+  1. Extracting field data...
+     Sucrose avg: 4.097947
+     Lactate avg: 0.000010
+  2. Extracting cell masses...
+     SM total mass: 7.872e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=3450] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=9.84e-15, totM=7.87e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0004, avg=0.0000
+========================================
+[MCS 3475] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 3475 ===
+  1. Extracting field data...
+     Sucrose avg: 4.097947
+     Lactate avg: 0.000010
+  2. Extracting cell masses...
+     SM total mass: 7.872e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=3475] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=9.84e-15, totM=7.87e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0004, avg=0.0000
+========================================
+
+=== TIMING STATS (avg of last 10, s) ===
+  field_extraction    : 17.090
+  mass_extraction     : 0.002
+  fipy_solver         : 538.991
+  volume_update       : 0.003
+  field_update        : 19.605
+  plotting            : 0.003
+  total_step          : 127.471
+========================================
+[MCS 3500] alive; cells=15
+Plot MCS 3500: SM=8(V=32), VP=7(V=28), Suc=4.098, Lac=0.000
+
+=== CELL DEBUG MCS 3500 ===
+S. mutans: 8, V. parvula: 7, Total: 15
+  SM volume min/avg/max: 4.0/4.0/4.0
+  SM mass   min/avg/max: 9.83e-15/9.84e-15/9.85e-15
+  VP volume min/avg/max: 4.0/4.0/4.0
+  VP mass   min/avg/max: 4.40e-15/4.40e-15/4.40e-15
+
+=== BIOLOGY UPDATE at MCS 3500 ===
+  1. Extracting field data...
+     Sucrose avg: 4.097947
+     Lactate avg: 0.000010
+  2. Extracting cell masses...
+     SM total mass: 7.872e-14
+     VP total mass: 3.080e-14
+  3. Running FiPy solver...
+  Running FiPy solver with 10 inner steps...
+     FiPy wall: 544.99s
+     Returned 9 fields
+     Σ dM_SM=2.144e-15, Σ dM_VP=1.999e-20
+  4. Updating CC3D fields...
+  5. Updating cell volumes...
+  Cells grew: 0, shrank: 0, divided: 0, died: 0
+
+=== BIOFILM STATUS [MCS=3500] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=1.01e-14, totM=8.09e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0004, avg=0.0000
+========================================
+[MCS 3525] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 3525 ===
+  1. Extracting field data...
+     Sucrose avg: 4.125819
+     Lactate avg: 0.000010
+  2. Extracting cell masses...
+     SM total mass: 8.086e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=3525] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=1.01e-14, totM=8.09e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0004, avg=0.0000
+========================================
+[MCS 3550] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 3550 ===
+  1. Extracting field data...
+     Sucrose avg: 4.125819
+     Lactate avg: 0.000010
+  2. Extracting cell masses...
+     SM total mass: 8.086e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=3550] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=1.01e-14, totM=8.09e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0004, avg=0.0000
+========================================
+[MCS 3575] alive; cells=15
+
+=== BIOLOGY UPDATE at MCS 3575 ===
+  1. Extracting field data...
+     Sucrose avg: 4.125819
+     Lactate avg: 0.000010
+  2. Extracting cell masses...
+     SM total mass: 8.086e-14
+     VP total mass: 3.080e-14
+  3. Skipping FiPy (runs every 100 MCS)
+
+=== BIOFILM STATUS [MCS=3575] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=1.01e-14, totM=8.09e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0004, avg=0.0000
+========================================
+
+=== FINAL TIMING STATISTICS ===
+  field_extraction    : Total=2412.84s, Avg=16.756s
+  mass_extraction     : Total=0.34s, Avg=0.002s
+  fipy_solver         : Total=26233.05s, Avg=749.516s
+  volume_update       : Total=0.08s, Avg=0.002s
+  field_update        : Total=675.38s, Avg=19.297s
+  plotting            : Total=0.27s, Avg=0.004s
+  total_step          : Total=29325.25s, Avg=203.648s
+Plots saved.
+
+=== BIOFILM STATUS [MCS=3575] ===
+S. mutans: n=8, avgV=4.0, totV=32, avgM=1.01e-14, totM=8.09e-14
+V. parvula: n=7, avgV=4.0, totV=28, avgM=4.40e-15, totM=3.08e-14
+Metabolites: lactate max=0.0004, avg=0.0000
+========================================
+=== FINISH COMPLETE ===
