@@ -1,0 +1,141 @@
+2025-08-24 19:48:03,796 - 16S_Analysis - INFO - Selected samples: ['SECC30', 'SECC17', 'SECC18', 'SECC32', 'SECC35', 'SECC6', 'SECC28', 'SECC10', 'SECC11', 'SECC14']
+2025-08-24 19:48:15,224 - 16S_Analysis - INFO - ==================================================
+2025-08-24 19:48:15,224 - 16S_Analysis - INFO - Processing sample: SECC30
+2025-08-24 19:48:15,279 - 16S_Analysis - INFO - Total sequences to process: 66703
+2025-08-24 19:48:15,279 - 16S_Analysis - INFO - Starting analysis for k=7
+2025-08-24 19:51:00,714 - 16S_Analysis - INFO - Found 239 taxon, time used: 165.43s.
+2025-08-24 19:51:00,715 - 16S_Analysis - INFO - Starting analysis for k=11
+2025-08-24 19:52:20,705 - 16S_Analysis - INFO - Found 260 taxon, time used: 79.99s.
+2025-08-24 19:52:20,705 - 16S_Analysis - INFO - Starting analysis for k=15
+2025-08-24 19:53:06,568 - 16S_Analysis - INFO - Found 253 taxon, time used: 45.86s.
+2025-08-24 19:53:06,568 - 16S_Analysis - INFO - Starting analysis for k=21
+2025-08-24 19:53:34,384 - 16S_Analysis - INFO - Found 240 taxon, time used: 27.82s.
+2025-08-24 19:53:34,384 - 16S_Analysis - INFO - Starting analysis for k=31
+2025-08-24 19:53:59,138 - 16S_Analysis - INFO - Found 241 taxon, time used: 24.75s.
+2025-08-24 19:53:59,154 - 16S_Analysis - INFO - ==================================================
+2025-08-24 19:53:59,154 - 16S_Analysis - INFO - Processing sample: SECC17
+2025-08-24 19:53:59,192 - 16S_Analysis - INFO - Total sequences to process: 57800
+2025-08-24 19:53:59,192 - 16S_Analysis - INFO - Starting analysis for k=7
+2025-08-24 19:56:45,504 - 16S_Analysis - INFO - Found 262 taxon, time used: 166.31s.
+2025-08-24 19:56:45,504 - 16S_Analysis - INFO - Starting analysis for k=11
+2025-08-24 19:57:51,016 - 16S_Analysis - INFO - Found 278 taxon, time used: 65.51s.
+2025-08-24 19:57:51,017 - 16S_Analysis - INFO - Starting analysis for k=15
+2025-08-24 19:58:31,720 - 16S_Analysis - INFO - Found 255 taxon, time used: 40.70s.
+2025-08-24 19:58:31,720 - 16S_Analysis - INFO - Starting analysis for k=21
+2025-08-24 19:59:01,723 - 16S_Analysis - INFO - Found 252 taxon, time used: 30.00s.
+2025-08-24 19:59:01,723 - 16S_Analysis - INFO - Starting analysis for k=31
+2025-08-24 19:59:34,177 - 16S_Analysis - INFO - Found 247 taxon, time used: 32.45s.
+2025-08-24 19:59:34,193 - 16S_Analysis - INFO - ==================================================
+2025-08-24 19:59:34,193 - 16S_Analysis - INFO - Processing sample: SECC18
+2025-08-24 19:59:34,239 - 16S_Analysis - INFO - Total sequences to process: 62613
+2025-08-24 19:59:34,239 - 16S_Analysis - INFO - Starting analysis for k=7
+2025-08-24 20:02:45,963 - 16S_Analysis - INFO - Found 274 taxon, time used: 191.72s.
+2025-08-24 20:02:45,964 - 16S_Analysis - INFO - Starting analysis for k=11
+2025-08-24 20:03:59,593 - 16S_Analysis - INFO - Found 294 taxon, time used: 73.63s.
+2025-08-24 20:03:59,593 - 16S_Analysis - INFO - Starting analysis for k=15
+2025-08-24 20:04:48,690 - 16S_Analysis - INFO - Found 284 taxon, time used: 49.10s.
+2025-08-24 20:04:48,691 - 16S_Analysis - INFO - Starting analysis for k=21
+2025-08-24 20:05:23,734 - 16S_Analysis - INFO - Found 287 taxon, time used: 35.04s.
+2025-08-24 20:05:23,734 - 16S_Analysis - INFO - Starting analysis for k=31
+2025-08-24 20:05:58,610 - 16S_Analysis - INFO - Found 287 taxon, time used: 34.88s.
+2025-08-24 20:05:58,634 - 16S_Analysis - INFO - ==================================================
+2025-08-24 20:05:58,634 - 16S_Analysis - INFO - Processing sample: SECC32
+2025-08-24 20:05:58,678 - 16S_Analysis - INFO - Total sequences to process: 54664
+2025-08-24 20:05:58,678 - 16S_Analysis - INFO - Starting analysis for k=7
+2025-08-24 20:08:53,435 - 16S_Analysis - INFO - Found 209 taxon, time used: 174.76s.
+2025-08-24 20:08:53,435 - 16S_Analysis - INFO - Starting analysis for k=11
+2025-08-24 20:10:00,168 - 16S_Analysis - INFO - Found 229 taxon, time used: 66.73s.
+2025-08-24 20:10:00,168 - 16S_Analysis - INFO - Starting analysis for k=15
+2025-08-24 20:10:45,373 - 16S_Analysis - INFO - Found 211 taxon, time used: 45.20s.
+2025-08-24 20:10:45,373 - 16S_Analysis - INFO - Starting analysis for k=21
+2025-08-24 20:11:15,692 - 16S_Analysis - INFO - Found 209 taxon, time used: 30.32s.
+2025-08-24 20:11:15,693 - 16S_Analysis - INFO - Starting analysis for k=31
+2025-08-24 20:11:46,656 - 16S_Analysis - INFO - Found 202 taxon, time used: 30.96s.
+2025-08-24 20:11:46,673 - 16S_Analysis - INFO - ==================================================
+2025-08-24 20:11:46,673 - 16S_Analysis - INFO - Processing sample: SECC35
+2025-08-24 20:11:46,725 - 16S_Analysis - INFO - Total sequences to process: 65849
+2025-08-24 20:11:46,725 - 16S_Analysis - INFO - Starting analysis for k=7
+2025-08-24 20:15:18,050 - 16S_Analysis - INFO - Found 219 taxon, time used: 211.33s.
+2025-08-24 20:15:18,051 - 16S_Analysis - INFO - Starting analysis for k=11
+2025-08-24 20:16:36,825 - 16S_Analysis - INFO - Found 254 taxon, time used: 78.77s.
+2025-08-24 20:16:36,825 - 16S_Analysis - INFO - Starting analysis for k=15
+2025-08-24 20:17:28,121 - 16S_Analysis - INFO - Found 246 taxon, time used: 51.30s.
+2025-08-24 20:17:28,121 - 16S_Analysis - INFO - Starting analysis for k=21
+2025-08-24 20:18:02,478 - 16S_Analysis - INFO - Found 237 taxon, time used: 34.36s.
+2025-08-24 20:18:02,479 - 16S_Analysis - INFO - Starting analysis for k=31
+2025-08-24 20:18:31,938 - 16S_Analysis - INFO - Found 236 taxon, time used: 29.46s.
+2025-08-24 20:18:31,959 - 16S_Analysis - INFO - ==================================================
+2025-08-24 20:18:31,960 - 16S_Analysis - INFO - Processing sample: SECC6
+2025-08-24 20:18:32,008 - 16S_Analysis - INFO - Total sequences to process: 73614
+2025-08-24 20:18:32,008 - 16S_Analysis - INFO - Starting analysis for k=7
+2025-08-24 20:22:36,916 - 16S_Analysis - INFO - Found 268 taxon, time used: 244.91s.
+2025-08-24 20:22:36,916 - 16S_Analysis - INFO - Starting analysis for k=11
+2025-08-24 20:24:08,350 - 16S_Analysis - INFO - Found 293 taxon, time used: 91.43s.
+2025-08-24 20:24:08,350 - 16S_Analysis - INFO - Starting analysis for k=15
+2025-08-24 20:25:06,325 - 16S_Analysis - INFO - Found 276 taxon, time used: 57.97s.
+2025-08-24 20:25:06,325 - 16S_Analysis - INFO - Starting analysis for k=21
+2025-08-24 20:25:43,575 - 16S_Analysis - INFO - Found 273 taxon, time used: 37.25s.
+2025-08-24 20:25:43,576 - 16S_Analysis - INFO - Starting analysis for k=31
+2025-08-24 20:26:15,733 - 16S_Analysis - INFO - Found 274 taxon, time used: 32.16s.
+2025-08-24 20:26:15,750 - 16S_Analysis - INFO - ==================================================
+2025-08-24 20:26:15,750 - 16S_Analysis - INFO - Processing sample: SECC28
+2025-08-24 20:26:15,795 - 16S_Analysis - INFO - Total sequences to process: 68570
+2025-08-24 20:26:15,795 - 16S_Analysis - INFO - Starting analysis for k=7
+2025-08-24 20:30:08,257 - 16S_Analysis - INFO - Found 214 taxon, time used: 232.46s.
+2025-08-24 20:30:08,257 - 16S_Analysis - INFO - Starting analysis for k=11
+2025-08-24 20:31:38,938 - 16S_Analysis - INFO - Found 239 taxon, time used: 90.68s.
+2025-08-24 20:31:38,939 - 16S_Analysis - INFO - Starting analysis for k=15
+2025-08-24 20:32:39,652 - 16S_Analysis - INFO - Found 228 taxon, time used: 60.71s.
+2025-08-24 20:32:39,652 - 16S_Analysis - INFO - Starting analysis for k=21
+2025-08-24 20:33:15,590 - 16S_Analysis - INFO - Found 226 taxon, time used: 35.94s.
+2025-08-24 20:33:15,591 - 16S_Analysis - INFO - Starting analysis for k=31
+2025-08-24 20:33:45,914 - 16S_Analysis - INFO - Found 224 taxon, time used: 30.32s.
+2025-08-24 20:33:45,940 - 16S_Analysis - INFO - ==================================================
+2025-08-24 20:33:45,940 - 16S_Analysis - INFO - Processing sample: SECC10
+2025-08-24 20:33:45,992 - 16S_Analysis - INFO - Total sequences to process: 70627
+2025-08-24 20:33:45,993 - 16S_Analysis - INFO - Starting analysis for k=7
+2025-08-24 20:37:40,311 - 16S_Analysis - INFO - Found 186 taxon, time used: 234.32s.
+2025-08-24 20:37:40,312 - 16S_Analysis - INFO - Starting analysis for k=11
+2025-08-24 20:39:08,859 - 16S_Analysis - INFO - Found 203 taxon, time used: 88.55s.
+2025-08-24 20:39:08,859 - 16S_Analysis - INFO - Starting analysis for k=15
+2025-08-24 20:40:09,536 - 16S_Analysis - INFO - Found 199 taxon, time used: 60.68s.
+2025-08-24 20:40:09,536 - 16S_Analysis - INFO - Starting analysis for k=21
+2025-08-24 20:40:48,097 - 16S_Analysis - INFO - Found 192 taxon, time used: 38.56s.
+2025-08-24 20:40:48,097 - 16S_Analysis - INFO - Starting analysis for k=31
+2025-08-24 20:41:19,036 - 16S_Analysis - INFO - Found 183 taxon, time used: 30.94s.
+2025-08-24 20:41:19,054 - 16S_Analysis - INFO - ==================================================
+2025-08-24 20:41:19,055 - 16S_Analysis - INFO - Processing sample: SECC11
+2025-08-24 20:41:19,092 - 16S_Analysis - INFO - Total sequences to process: 56073
+2025-08-24 20:41:19,092 - 16S_Analysis - INFO - Starting analysis for k=7
+2025-08-24 20:44:36,956 - 16S_Analysis - INFO - Found 282 taxon, time used: 197.86s.
+2025-08-24 20:44:36,956 - 16S_Analysis - INFO - Starting analysis for k=11
+2025-08-24 20:45:51,027 - 16S_Analysis - INFO - Found 291 taxon, time used: 74.07s.
+2025-08-24 20:45:51,027 - 16S_Analysis - INFO - Starting analysis for k=15
+2025-08-24 20:46:41,873 - 16S_Analysis - INFO - Found 280 taxon, time used: 50.85s.
+2025-08-24 20:46:41,873 - 16S_Analysis - INFO - Starting analysis for k=21
+2025-08-24 20:47:20,480 - 16S_Analysis - INFO - Found 283 taxon, time used: 38.61s.
+2025-08-24 20:47:20,480 - 16S_Analysis - INFO - Starting analysis for k=31
+2025-08-24 20:47:57,551 - 16S_Analysis - INFO - Found 281 taxon, time used: 37.07s.
+2025-08-24 20:47:57,589 - 16S_Analysis - INFO - ==================================================
+2025-08-24 20:47:57,589 - 16S_Analysis - INFO - Processing sample: SECC14
+2025-08-24 20:47:57,657 - 16S_Analysis - INFO - Total sequences to process: 65707
+2025-08-24 20:47:57,657 - 16S_Analysis - INFO - Starting analysis for k=7
+2025-08-24 20:51:32,480 - 16S_Analysis - INFO - Found 275 taxon, time used: 214.82s.
+2025-08-24 20:51:32,480 - 16S_Analysis - INFO - Starting analysis for k=11
+2025-08-24 20:52:46,053 - 16S_Analysis - INFO - Found 290 taxon, time used: 73.57s.
+2025-08-24 20:52:46,053 - 16S_Analysis - INFO - Starting analysis for k=15
+2025-08-24 20:53:36,949 - 16S_Analysis - INFO - Found 276 taxon, time used: 50.90s.
+2025-08-24 20:53:36,949 - 16S_Analysis - INFO - Starting analysis for k=21
+2025-08-24 20:54:08,792 - 16S_Analysis - INFO - Found 268 taxon, time used: 31.84s.
+2025-08-24 20:54:08,792 - 16S_Analysis - INFO - Starting analysis for k=31
+2025-08-24 20:54:38,522 - 16S_Analysis - INFO - Found 271 taxon, time used: 29.73s.
+2025-08-24 20:54:38,572 - 16S_Analysis - INFO - All done.
+2025-08-24 20:54:38,572 - 16S_Analysis - INFO - ==================================================
+2025-08-24 20:54:38,580 - 16S_Analysis - INFO - K-mer comparison results (avg Jaccard | avg runtime in s):
+2025-08-24 20:54:38,580 - 16S_Analysis - INFO - k= 7 | avg Jaccard=0.830 | avg time=0.00s
+2025-08-24 20:54:38,580 - 16S_Analysis - INFO - k=11 | avg Jaccard=0.902 | avg time=0.00s
+2025-08-24 20:54:38,580 - 16S_Analysis - INFO - k=15 | avg Jaccard=0.915 | avg time=0.00s
+2025-08-24 20:54:38,580 - 16S_Analysis - INFO - k=21 | avg Jaccard=0.915 | avg time=0.00s
+2025-08-24 20:54:38,580 - 16S_Analysis - INFO - k=31 | avg Jaccard=0.867 | avg time=0.00s
+2025-08-24 20:54:38,580 - 16S_Analysis - INFO - => Optimal k = 15
+2025-08-24 20:54:39,028 - 16S_Analysis - INFO - All samples tested with different kmers completed in 3995.23s

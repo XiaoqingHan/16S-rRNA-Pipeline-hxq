@@ -1,0 +1,1084 @@
+INFO: Step 0 
+INFO: Energy 0 
+INFO: Cells 0
+INFO: Step 0 Flips 98/35000 Energy -2507 Cells 15 Inventory=15
+Metropolis Fast
+total number of pixel copy attempts=35000
+
+INFO: Step 10 Flips 83/35000 Energy -112 Cells 15 Inventory=15
+
+
+INFO: Step 20 Flips 64/35000 Energy -129 Cells 15 Inventory=15
+
+
+INFO: Step 30 Flips 47/35000 Energy 38 Cells 15 Inventory=15
+
+
+INFO: Step 40 Flips 58/35000 Energy 235 Cells 15 Inventory=15
+
+
+INFO: Step 50 Flips 52/35000 Energy -54 Cells 15 Inventory=15
+
+
+INFO: Step 60 Flips 54/35000 Energy -118 Cells 15 Inventory=15
+
+
+INFO: Step 70 Flips 81/35000 Energy 135 Cells 15 Inventory=15
+
+
+INFO: Step 80 Flips 67/35000 Energy -42 Cells 15 Inventory=15
+
+
+INFO: Step 90 Flips 75/35000 Energy -95 Cells 15 Inventory=15
+
+
+INFO: Step 100 Flips 51/35000 Energy -94 Cells 15 Inventory=15
+
+
+INFO: Step 110 Flips 58/35000 Energy 145 Cells 15 Inventory=15
+
+
+INFO: Step 120 Flips 60/35000 Energy -143 Cells 15 Inventory=15
+
+
+INFO: Step 130 Flips 78/35000 Energy 58 Cells 15 Inventory=15
+
+
+INFO: Step 140 Flips 71/35000 Energy -1 Cells 15 Inventory=15
+
+
+INFO: Step 150 Flips 55/35000 Energy 89 Cells 15 Inventory=15
+
+
+INFO: Step 160 Flips 69/35000 Energy 47 Cells 15 Inventory=15
+
+
+INFO: Step 170 Flips 73/35000 Energy -78 Cells 15 Inventory=15
+
+
+INFO: Step 180 Flips 48/35000 Energy 22 Cells 15 Inventory=15
+
+
+INFO: Step 190 Flips 69/35000 Energy -142 Cells 15 Inventory=15
+
+
+INFO: Step 200 Flips 78/35000 Energy 87 Cells 15 Inventory=15
+
+
+INFO: Step 210 Flips 68/35000 Energy 190 Cells 15 Inventory=15
+
+
+INFO: Step 220 Flips 80/35000 Energy -112 Cells 15 Inventory=15
+
+
+INFO: Step 230 Flips 84/35000 Energy -73 Cells 15 Inventory=15
+
+
+INFO: Step 240 Flips 82/35000 Energy 170 Cells 15 Inventory=15
+
+
+INFO: Step 250 Flips 80/35000 Energy 103 Cells 15 Inventory=15
+
+
+INFO: Step 260 Flips 81/35000 Energy -54 Cells 15 Inventory=15
+
+
+INFO: Step 270 Flips 61/35000 Energy 89 Cells 15 Inventory=15
+
+
+INFO: Step 280 Flips 72/35000 Energy 85 Cells 15 Inventory=15
+
+
+INFO: Step 290 Flips 75/35000 Energy 26 Cells 15 Inventory=15
+
+
+INFO: Step 300 Flips 62/35000 Energy 51 Cells 15 Inventory=15
+
+
+INFO: Step 310 Flips 64/35000 Energy 135 Cells 15 Inventory=15
+
+
+INFO: Step 320 Flips 82/35000 Energy 197 Cells 15 Inventory=15
+
+
+INFO: Step 330 Flips 75/35000 Energy -39 Cells 15 Inventory=15
+
+
+INFO: Step 340 Flips 74/35000 Energy -34 Cells 15 Inventory=15
+
+
+INFO: Step 350 Flips 91/35000 Energy -1 Cells 15 Inventory=15
+
+
+INFO: Step 360 Flips 76/35000 Energy -45 Cells 15 Inventory=15
+
+
+INFO: Step 370 Flips 92/35000 Energy -57 Cells 15 Inventory=15
+
+
+INFO: Step 380 Flips 82/35000 Energy -6 Cells 15 Inventory=15
+
+
+INFO: Step 390 Flips 74/35000 Energy 57 Cells 15 Inventory=15
+
+
+INFO: Step 400 Flips 55/35000 Energy -25 Cells 15 Inventory=15
+
+
+INFO: Step 410 Flips 73/35000 Energy 43 Cells 15 Inventory=15
+
+
+INFO: Step 420 Flips 70/35000 Energy -14 Cells 15 Inventory=15
+
+
+INFO: Step 430 Flips 68/35000 Energy -18 Cells 15 Inventory=15
+
+
+INFO: Step 440 Flips 64/35000 Energy -82 Cells 15 Inventory=15
+
+
+INFO: Step 450 Flips 75/35000 Energy 144 Cells 15 Inventory=15
+
+
+INFO: Step 460 Flips 60/35000 Energy 128 Cells 15 Inventory=15
+
+
+INFO: Step 470 Flips 69/35000 Energy 84 Cells 15 Inventory=15
+
+
+INFO: Step 480 Flips 75/35000 Energy -102 Cells 15 Inventory=15
+
+
+INFO: Step 490 Flips 80/35000 Energy -3 Cells 15 Inventory=15
+
+
+INFO: Step 500 Flips 71/35000 Energy -47 Cells 15 Inventory=15
+
+
+INFO: Step 510 Flips 81/35000 Energy -54 Cells 15 Inventory=15
+
+
+INFO: Step 520 Flips 76/35000 Energy 95 Cells 15 Inventory=15
+
+
+INFO: Step 530 Flips 77/35000 Energy 36 Cells 15 Inventory=15
+
+
+INFO: Step 540 Flips 73/35000 Energy -10 Cells 15 Inventory=15
+
+
+INFO: Step 550 Flips 65/35000 Energy 122 Cells 15 Inventory=15
+
+
+INFO: Step 560 Flips 66/35000 Energy 58 Cells 15 Inventory=15
+
+
+INFO: Step 570 Flips 77/35000 Energy 175 Cells 15 Inventory=15
+
+
+INFO: Step 580 Flips 71/35000 Energy -54 Cells 15 Inventory=15
+
+
+INFO: Step 590 Flips 56/35000 Energy -90 Cells 15 Inventory=15
+
+
+INFO: Step 600 Flips 71/35000 Energy -43 Cells 15 Inventory=15
+
+
+INFO: Step 610 Flips 85/35000 Energy 148 Cells 15 Inventory=15
+
+
+INFO: Step 620 Flips 76/35000 Energy 121 Cells 15 Inventory=15
+
+
+INFO: Step 630 Flips 59/35000 Energy -60 Cells 15 Inventory=15
+
+
+INFO: Step 640 Flips 71/35000 Energy 2 Cells 15 Inventory=15
+
+
+INFO: Step 650 Flips 80/35000 Energy -33 Cells 15 Inventory=15
+
+
+INFO: Step 660 Flips 76/35000 Energy -66 Cells 15 Inventory=15
+
+
+INFO: Step 670 Flips 70/35000 Energy -97 Cells 15 Inventory=15
+
+
+INFO: Step 680 Flips 73/35000 Energy 87 Cells 15 Inventory=15
+
+
+INFO: Step 690 Flips 79/35000 Energy -23 Cells 15 Inventory=15
+
+
+INFO: Step 700 Flips 57/35000 Energy -195 Cells 15 Inventory=15
+
+
+INFO: Step 710 Flips 70/35000 Energy 115 Cells 15 Inventory=15
+
+
+INFO: Step 720 Flips 77/35000 Energy 238 Cells 15 Inventory=15
+
+
+INFO: Step 730 Flips 76/35000 Energy -50 Cells 15 Inventory=15
+
+
+INFO: Step 740 Flips 58/35000 Energy -75 Cells 15 Inventory=15
+
+
+INFO: Step 750 Flips 61/35000 Energy 118 Cells 15 Inventory=15
+
+
+INFO: Step 760 Flips 82/35000 Energy 83 Cells 15 Inventory=15
+
+
+INFO: Step 770 Flips 79/35000 Energy -154 Cells 15 Inventory=15
+
+
+INFO: Step 780 Flips 88/35000 Energy -68 Cells 15 Inventory=15
+
+
+INFO: Step 790 Flips 77/35000 Energy -181 Cells 15 Inventory=15
+
+
+INFO: Step 800 Flips 72/35000 Energy -125 Cells 15 Inventory=15
+
+
+INFO: Step 810 Flips 90/35000 Energy -102 Cells 15 Inventory=15
+
+
+INFO: Step 820 Flips 87/35000 Energy 57 Cells 15 Inventory=15
+
+
+INFO: Step 830 Flips 62/35000 Energy -72 Cells 15 Inventory=15
+
+
+INFO: Step 840 Flips 74/35000 Energy -61 Cells 15 Inventory=15
+
+
+INFO: Step 850 Flips 67/35000 Energy 146 Cells 15 Inventory=15
+
+
+INFO: Step 860 Flips 85/35000 Energy 6 Cells 15 Inventory=15
+
+
+INFO: Step 870 Flips 73/35000 Energy -128 Cells 15 Inventory=15
+
+
+INFO: Step 880 Flips 84/35000 Energy -17 Cells 15 Inventory=15
+
+
+INFO: Step 890 Flips 56/35000 Energy -8 Cells 15 Inventory=15
+
+
+INFO: Step 900 Flips 82/35000 Energy 113 Cells 15 Inventory=15
+
+
+INFO: Step 910 Flips 82/35000 Energy -53 Cells 15 Inventory=15
+
+
+INFO: Step 920 Flips 93/35000 Energy 358 Cells 15 Inventory=15
+
+
+INFO: Step 930 Flips 64/35000 Energy 45 Cells 15 Inventory=15
+
+
+INFO: Step 940 Flips 76/35000 Energy 30 Cells 15 Inventory=15
+
+
+INFO: Step 950 Flips 74/35000 Energy -11 Cells 15 Inventory=15
+
+
+INFO: Step 960 Flips 65/35000 Energy 164 Cells 15 Inventory=15
+
+
+INFO: Step 970 Flips 64/35000 Energy 24 Cells 15 Inventory=15
+
+
+INFO: Step 980 Flips 74/35000 Energy 28 Cells 15 Inventory=15
+
+
+INFO: Step 990 Flips 59/35000 Energy -136 Cells 15 Inventory=15
+
+
+INFO: Step 1000 Flips 70/35000 Energy -112 Cells 15 Inventory=15
+
+
+INFO: Step 1010 Flips 63/35000 Energy -65 Cells 15 Inventory=15
+
+
+INFO: Step 1020 Flips 70/35000 Energy 97 Cells 15 Inventory=15
+
+
+INFO: Step 1030 Flips 85/35000 Energy 23 Cells 15 Inventory=15
+
+
+INFO: Step 1040 Flips 85/35000 Energy -97 Cells 15 Inventory=15
+
+
+INFO: Step 1050 Flips 80/35000 Energy -112 Cells 15 Inventory=15
+
+
+INFO: Step 1060 Flips 67/35000 Energy 52 Cells 15 Inventory=15
+
+
+INFO: Step 1070 Flips 66/35000 Energy -57 Cells 15 Inventory=15
+
+
+INFO: Step 1080 Flips 76/35000 Energy -86 Cells 15 Inventory=15
+
+
+INFO: Step 1090 Flips 82/35000 Energy -186 Cells 15 Inventory=15
+
+
+INFO: Step 1100 Flips 90/35000 Energy 102 Cells 15 Inventory=15
+
+
+INFO: Step 1110 Flips 81/35000 Energy 171 Cells 15 Inventory=15
+
+
+INFO: Step 1120 Flips 82/35000 Energy 21 Cells 15 Inventory=15
+
+
+INFO: Step 1130 Flips 83/35000 Energy -136 Cells 15 Inventory=15
+
+
+INFO: Step 1140 Flips 64/35000 Energy 21 Cells 15 Inventory=15
+
+
+INFO: Step 1150 Flips 88/35000 Energy 9 Cells 15 Inventory=15
+
+
+INFO: Step 1160 Flips 75/35000 Energy 30 Cells 15 Inventory=15
+
+
+INFO: Step 1170 Flips 90/35000 Energy 21 Cells 15 Inventory=15
+
+
+INFO: Step 1180 Flips 57/35000 Energy -132 Cells 15 Inventory=15
+
+
+INFO: Step 1190 Flips 78/35000 Energy -11 Cells 15 Inventory=15
+
+
+INFO: Step 1200 Flips 58/35000 Energy -127 Cells 15 Inventory=15
+
+
+INFO: Step 1210 Flips 69/35000 Energy 69 Cells 15 Inventory=15
+
+
+INFO: Step 1220 Flips 59/35000 Energy -29 Cells 15 Inventory=15
+
+
+INFO: Step 1230 Flips 74/35000 Energy 90 Cells 15 Inventory=15
+
+
+INFO: Step 1240 Flips 58/35000 Energy 17 Cells 15 Inventory=15
+
+
+INFO: Step 1250 Flips 79/35000 Energy 121 Cells 15 Inventory=15
+
+
+INFO: Step 1260 Flips 74/35000 Energy -156 Cells 15 Inventory=15
+
+
+INFO: Step 1270 Flips 74/35000 Energy 25 Cells 15 Inventory=15
+
+
+INFO: Step 1280 Flips 70/35000 Energy 123 Cells 15 Inventory=15
+
+
+INFO: Step 1290 Flips 79/35000 Energy -51 Cells 15 Inventory=15
+
+
+INFO: Step 1300 Flips 68/35000 Energy -25 Cells 15 Inventory=15
+
+
+INFO: Step 1310 Flips 77/35000 Energy -15 Cells 15 Inventory=15
+
+
+INFO: Step 1320 Flips 90/35000 Energy 9 Cells 15 Inventory=15
+
+
+INFO: Step 1330 Flips 86/35000 Energy -305 Cells 15 Inventory=15
+
+
+INFO: Step 1340 Flips 70/35000 Energy 80 Cells 15 Inventory=15
+
+
+INFO: Step 1350 Flips 67/35000 Energy 181 Cells 15 Inventory=15
+
+
+INFO: Step 1360 Flips 79/35000 Energy -133 Cells 15 Inventory=15
+
+
+INFO: Step 1370 Flips 95/35000 Energy 31 Cells 15 Inventory=15
+
+
+INFO: Step 1380 Flips 88/35000 Energy 43 Cells 15 Inventory=15
+
+
+INFO: Step 1390 Flips 76/35000 Energy -120 Cells 15 Inventory=15
+
+
+INFO: Step 1400 Flips 69/35000 Energy 63 Cells 15 Inventory=15
+
+
+INFO: Step 1410 Flips 74/35000 Energy 20 Cells 15 Inventory=15
+
+
+INFO: Step 1420 Flips 78/35000 Energy 89 Cells 15 Inventory=15
+
+
+INFO: Step 1430 Flips 72/35000 Energy -117 Cells 15 Inventory=15
+
+
+INFO: Step 1440 Flips 61/35000 Energy 37 Cells 15 Inventory=15
+
+
+INFO: Step 1450 Flips 65/35000 Energy 22 Cells 15 Inventory=15
+
+
+INFO: Step 1460 Flips 62/35000 Energy 47 Cells 15 Inventory=15
+
+
+INFO: Step 1470 Flips 56/35000 Energy -25 Cells 15 Inventory=15
+
+
+INFO: Step 1480 Flips 64/35000 Energy -170 Cells 15 Inventory=15
+
+
+INFO: Step 1490 Flips 71/35000 Energy 130 Cells 15 Inventory=15
+
+
+INFO: Step 1500 Flips 64/35000 Energy -93 Cells 15 Inventory=15
+
+
+INFO: Step 1510 Flips 58/35000 Energy -91 Cells 15 Inventory=15
+
+
+INFO: Step 1520 Flips 71/35000 Energy -30 Cells 15 Inventory=15
+
+
+INFO: Step 1530 Flips 78/35000 Energy -199 Cells 15 Inventory=15
+
+
+INFO: Step 1540 Flips 61/35000 Energy -85 Cells 15 Inventory=15
+
+
+INFO: Step 1550 Flips 69/35000 Energy -80 Cells 15 Inventory=15
+
+
+INFO: Step 1560 Flips 74/35000 Energy 41 Cells 15 Inventory=15
+
+
+INFO: Step 1570 Flips 62/35000 Energy -8 Cells 15 Inventory=15
+
+
+INFO: Step 1580 Flips 66/35000 Energy 126 Cells 15 Inventory=15
+
+
+INFO: Step 1590 Flips 63/35000 Energy -8 Cells 15 Inventory=15
+
+
+INFO: Step 1600 Flips 80/35000 Energy -7 Cells 15 Inventory=15
+
+
+INFO: Step 1610 Flips 68/35000 Energy -123 Cells 15 Inventory=15
+
+
+INFO: Step 1620 Flips 67/35000 Energy 95 Cells 15 Inventory=15
+
+
+INFO: Step 1630 Flips 74/35000 Energy 101 Cells 15 Inventory=15
+
+
+INFO: Step 1640 Flips 79/35000 Energy -124 Cells 15 Inventory=15
+
+
+INFO: Step 1650 Flips 74/35000 Energy -29 Cells 15 Inventory=15
+
+
+INFO: Step 1660 Flips 65/35000 Energy -74 Cells 15 Inventory=15
+
+
+INFO: Step 1670 Flips 82/35000 Energy 20 Cells 15 Inventory=15
+
+
+INFO: Step 1680 Flips 62/35000 Energy 85 Cells 15 Inventory=15
+
+
+INFO: Step 1690 Flips 82/35000 Energy 34 Cells 15 Inventory=15
+
+
+INFO: Step 1700 Flips 76/35000 Energy -76 Cells 15 Inventory=15
+
+
+INFO: Step 1710 Flips 81/35000 Energy 81 Cells 15 Inventory=15
+
+
+INFO: Step 1720 Flips 75/35000 Energy -71 Cells 15 Inventory=15
+
+
+INFO: Step 1730 Flips 88/35000 Energy 43 Cells 15 Inventory=15
+
+
+INFO: Step 1740 Flips 57/35000 Energy 25 Cells 15 Inventory=15
+
+
+INFO: Step 1750 Flips 93/35000 Energy -152 Cells 15 Inventory=15
+
+
+INFO: Step 1760 Flips 63/35000 Energy 100 Cells 15 Inventory=15
+
+
+INFO: Step 1770 Flips 68/35000 Energy -104 Cells 15 Inventory=15
+
+
+INFO: Step 1780 Flips 77/35000 Energy -5 Cells 15 Inventory=15
+
+
+INFO: Step 1790 Flips 63/35000 Energy -92 Cells 15 Inventory=15
+
+
+INFO: Step 1800 Flips 67/35000 Energy 41 Cells 15 Inventory=15
+
+
+INFO: Step 1810 Flips 60/35000 Energy 38 Cells 15 Inventory=15
+
+
+INFO: Step 1820 Flips 71/35000 Energy -31 Cells 15 Inventory=15
+
+
+INFO: Step 1830 Flips 95/35000 Energy -91 Cells 15 Inventory=15
+
+
+INFO: Step 1840 Flips 79/35000 Energy -10 Cells 15 Inventory=15
+
+
+INFO: Step 1850 Flips 63/35000 Energy 119 Cells 15 Inventory=15
+
+
+INFO: Step 1860 Flips 79/35000 Energy 45 Cells 15 Inventory=15
+
+
+INFO: Step 1870 Flips 75/35000 Energy -53 Cells 15 Inventory=15
+
+
+INFO: Step 1880 Flips 63/35000 Energy 94 Cells 15 Inventory=15
+
+
+INFO: Step 1890 Flips 70/35000 Energy -33 Cells 15 Inventory=15
+
+
+INFO: Step 1900 Flips 85/35000 Energy -29 Cells 15 Inventory=15
+
+
+INFO: Step 1910 Flips 60/35000 Energy 80 Cells 15 Inventory=15
+
+
+INFO: Step 1920 Flips 68/35000 Energy 89 Cells 15 Inventory=15
+
+
+INFO: Step 1930 Flips 79/35000 Energy 90 Cells 15 Inventory=15
+
+
+INFO: Step 1940 Flips 73/35000 Energy -121 Cells 15 Inventory=15
+
+
+INFO: Step 1950 Flips 63/35000 Energy 125 Cells 15 Inventory=15
+
+
+INFO: Step 1960 Flips 58/35000 Energy -129 Cells 15 Inventory=15
+
+
+INFO: Step 1970 Flips 70/35000 Energy -98 Cells 15 Inventory=15
+
+
+INFO: Step 1980 Flips 79/35000 Energy -165 Cells 15 Inventory=15
+
+
+INFO: Step 1990 Flips 71/35000 Energy 31 Cells 15 Inventory=15
+
+
+INFO: Step 2000 Flips 92/35000 Energy 39 Cells 15 Inventory=15
+
+
+INFO: Step 2010 Flips 84/35000 Energy -215 Cells 15 Inventory=15
+
+
+INFO: Step 2020 Flips 94/35000 Energy 65 Cells 15 Inventory=15
+
+
+INFO: Step 2030 Flips 71/35000 Energy -23 Cells 15 Inventory=15
+
+
+INFO: Step 2040 Flips 81/35000 Energy -170 Cells 15 Inventory=15
+
+
+INFO: Step 2050 Flips 82/35000 Energy -113 Cells 15 Inventory=15
+
+
+INFO: Step 2060 Flips 55/35000 Energy -12 Cells 15 Inventory=15
+
+
+INFO: Step 2070 Flips 51/35000 Energy 31 Cells 15 Inventory=15
+
+
+INFO: Step 2080 Flips 68/35000 Energy -107 Cells 15 Inventory=15
+
+
+INFO: Step 2090 Flips 56/35000 Energy 16 Cells 15 Inventory=15
+
+
+INFO: Step 2100 Flips 62/35000 Energy 71 Cells 15 Inventory=15
+
+
+INFO: Step 2110 Flips 47/35000 Energy 18 Cells 15 Inventory=15
+
+
+INFO: Step 2120 Flips 69/35000 Energy 12 Cells 15 Inventory=15
+
+
+INFO: Step 2130 Flips 71/35000 Energy -79 Cells 15 Inventory=15
+
+
+INFO: Step 2140 Flips 73/35000 Energy -97 Cells 15 Inventory=15
+
+
+INFO: Step 2150 Flips 71/35000 Energy 30 Cells 15 Inventory=15
+
+
+INFO: Step 2160 Flips 93/35000 Energy -43 Cells 15 Inventory=15
+
+
+INFO: Step 2170 Flips 79/35000 Energy 33 Cells 15 Inventory=15
+
+
+INFO: Step 2180 Flips 58/35000 Energy 67 Cells 15 Inventory=15
+
+
+INFO: Step 2190 Flips 84/35000 Energy 102 Cells 15 Inventory=15
+
+
+INFO: Step 2200 Flips 75/35000 Energy 58 Cells 15 Inventory=15
+
+
+INFO: Step 2210 Flips 83/35000 Energy 12 Cells 15 Inventory=15
+
+
+INFO: Step 2220 Flips 74/35000 Energy -5 Cells 15 Inventory=15
+
+
+INFO: Step 2230 Flips 57/35000 Energy -29 Cells 15 Inventory=15
+
+
+INFO: Step 2240 Flips 67/35000 Energy 96 Cells 15 Inventory=15
+
+
+INFO: Step 2250 Flips 70/35000 Energy 249 Cells 15 Inventory=15
+
+
+INFO: Step 2260 Flips 65/35000 Energy -93 Cells 15 Inventory=15
+
+
+INFO: Step 2270 Flips 71/35000 Energy 282 Cells 15 Inventory=15
+
+
+INFO: Step 2280 Flips 68/35000 Energy 92 Cells 15 Inventory=15
+
+
+INFO: Step 2290 Flips 63/35000 Energy -58 Cells 15 Inventory=15
+
+
+INFO: Step 2300 Flips 70/35000 Energy -6 Cells 15 Inventory=15
+
+
+INFO: Step 2310 Flips 74/35000 Energy 26 Cells 15 Inventory=15
+
+
+INFO: Step 2320 Flips 82/35000 Energy 183 Cells 15 Inventory=15
+
+
+INFO: Step 2330 Flips 78/35000 Energy 18 Cells 15 Inventory=15
+
+
+INFO: Step 2340 Flips 66/35000 Energy 78 Cells 15 Inventory=15
+
+
+INFO: Step 2350 Flips 76/35000 Energy -49 Cells 15 Inventory=15
+
+
+INFO: Step 2360 Flips 65/35000 Energy -149 Cells 15 Inventory=15
+
+
+INFO: Step 2370 Flips 70/35000 Energy 34 Cells 15 Inventory=15
+
+
+INFO: Step 2380 Flips 67/35000 Energy -67 Cells 15 Inventory=15
+
+
+INFO: Step 2390 Flips 64/35000 Energy -241 Cells 15 Inventory=15
+
+
+INFO: Step 2400 Flips 64/35000 Energy 144 Cells 15 Inventory=15
+
+
+INFO: Step 2410 Flips 80/35000 Energy 25 Cells 15 Inventory=15
+
+
+INFO: Step 2420 Flips 81/35000 Energy -9 Cells 15 Inventory=15
+
+
+INFO: Step 2430 Flips 68/35000 Energy 90 Cells 15 Inventory=15
+
+
+INFO: Step 2440 Flips 60/35000 Energy 103 Cells 15 Inventory=15
+
+
+INFO: Step 2450 Flips 69/35000 Energy 71 Cells 15 Inventory=15
+
+
+INFO: Step 2460 Flips 82/35000 Energy 57 Cells 15 Inventory=15
+
+
+INFO: Step 2470 Flips 57/35000 Energy 63 Cells 15 Inventory=15
+
+
+INFO: Step 2480 Flips 96/35000 Energy -109 Cells 15 Inventory=15
+
+
+INFO: Step 2490 Flips 67/35000 Energy -69 Cells 15 Inventory=15
+
+
+INFO: Step 2500 Flips 84/35000 Energy -35 Cells 15 Inventory=15
+
+
+INFO: Step 2510 Flips 87/35000 Energy -21 Cells 15 Inventory=15
+
+
+INFO: Step 2520 Flips 75/35000 Energy -93 Cells 15 Inventory=15
+
+
+INFO: Step 2530 Flips 57/35000 Energy -61 Cells 15 Inventory=15
+
+
+INFO: Step 2540 Flips 86/35000 Energy 110 Cells 15 Inventory=15
+
+
+INFO: Step 2550 Flips 78/35000 Energy -168 Cells 15 Inventory=15
+
+
+INFO: Step 2560 Flips 69/35000 Energy -3 Cells 15 Inventory=15
+
+
+INFO: Step 2570 Flips 69/35000 Energy 161 Cells 15 Inventory=15
+
+
+INFO: Step 2580 Flips 70/35000 Energy -122 Cells 15 Inventory=15
+
+
+INFO: Step 2590 Flips 63/35000 Energy -99 Cells 15 Inventory=15
+
+
+INFO: Step 2600 Flips 65/35000 Energy -12 Cells 15 Inventory=15
+
+
+INFO: Step 2610 Flips 75/35000 Energy 83 Cells 15 Inventory=15
+
+
+INFO: Step 2620 Flips 97/35000 Energy 51 Cells 15 Inventory=15
+
+
+INFO: Step 2630 Flips 75/35000 Energy -15 Cells 15 Inventory=15
+
+
+INFO: Step 2640 Flips 85/35000 Energy -125 Cells 15 Inventory=15
+
+
+INFO: Step 2650 Flips 87/35000 Energy 31 Cells 15 Inventory=15
+
+
+INFO: Step 2660 Flips 71/35000 Energy 79 Cells 15 Inventory=15
+
+
+INFO: Step 2670 Flips 65/35000 Energy 88 Cells 15 Inventory=15
+
+
+INFO: Step 2680 Flips 75/35000 Energy 113 Cells 15 Inventory=15
+
+
+INFO: Step 2690 Flips 66/35000 Energy 198 Cells 15 Inventory=15
+
+
+INFO: Step 2700 Flips 91/35000 Energy 84 Cells 15 Inventory=15
+
+
+INFO: Step 2710 Flips 53/35000 Energy -144 Cells 15 Inventory=15
+
+
+INFO: Step 2720 Flips 68/35000 Energy 64 Cells 15 Inventory=15
+
+
+INFO: Step 2730 Flips 70/35000 Energy -45 Cells 15 Inventory=15
+
+
+INFO: Step 2740 Flips 81/35000 Energy -215 Cells 15 Inventory=15
+
+
+INFO: Step 2750 Flips 69/35000 Energy -86 Cells 15 Inventory=15
+
+
+INFO: Step 2760 Flips 65/35000 Energy 189 Cells 15 Inventory=15
+
+
+INFO: Step 2770 Flips 49/35000 Energy 132 Cells 15 Inventory=15
+
+
+INFO: Step 2780 Flips 62/35000 Energy 187 Cells 15 Inventory=15
+
+
+INFO: Step 2790 Flips 51/35000 Energy -66 Cells 15 Inventory=15
+
+
+INFO: Step 2800 Flips 65/35000 Energy -77 Cells 15 Inventory=15
+
+
+INFO: Step 2810 Flips 75/35000 Energy 151 Cells 15 Inventory=15
+
+
+INFO: Step 2820 Flips 87/35000 Energy 97 Cells 15 Inventory=15
+
+
+INFO: Step 2830 Flips 52/35000 Energy 134 Cells 15 Inventory=15
+
+
+INFO: Step 2840 Flips 65/35000 Energy -31 Cells 15 Inventory=15
+
+
+INFO: Step 2850 Flips 75/35000 Energy -154 Cells 15 Inventory=15
+
+
+INFO: Step 2860 Flips 60/35000 Energy 20 Cells 15 Inventory=15
+
+
+INFO: Step 2870 Flips 75/35000 Energy 253 Cells 15 Inventory=15
+
+
+INFO: Step 2880 Flips 70/35000 Energy -188 Cells 15 Inventory=15
+
+
+INFO: Step 2890 Flips 64/35000 Energy 136 Cells 15 Inventory=15
+
+
+INFO: Step 2900 Flips 54/35000 Energy -73 Cells 15 Inventory=15
+
+
+INFO: Step 2910 Flips 94/35000 Energy 56 Cells 15 Inventory=15
+
+
+INFO: Step 2920 Flips 75/35000 Energy 5 Cells 15 Inventory=15
+
+
+INFO: Step 2930 Flips 69/35000 Energy -28 Cells 15 Inventory=15
+
+
+INFO: Step 2940 Flips 85/35000 Energy 115 Cells 15 Inventory=15
+
+
+INFO: Step 2950 Flips 70/35000 Energy -74 Cells 15 Inventory=15
+
+
+INFO: Step 2960 Flips 71/35000 Energy 34 Cells 15 Inventory=15
+
+
+INFO: Step 2970 Flips 60/35000 Energy 96 Cells 15 Inventory=15
+
+
+INFO: Step 2980 Flips 73/35000 Energy 192 Cells 15 Inventory=15
+
+
+INFO: Step 2990 Flips 73/35000 Energy -156 Cells 15 Inventory=15
+
+
+INFO: Step 3000 Flips 59/35000 Energy 78 Cells 15 Inventory=15
+
+
+INFO: Step 3010 Flips 73/35000 Energy 52 Cells 15 Inventory=15
+
+
+INFO: Step 3020 Flips 63/35000 Energy 10 Cells 15 Inventory=15
+
+
+INFO: Step 3030 Flips 86/35000 Energy -233 Cells 15 Inventory=15
+
+
+INFO: Step 3040 Flips 63/35000 Energy 29 Cells 15 Inventory=15
+
+
+INFO: Step 3050 Flips 75/35000 Energy -186 Cells 15 Inventory=15
+
+
+INFO: Step 3060 Flips 74/35000 Energy 81 Cells 15 Inventory=15
+
+
+INFO: Step 3070 Flips 69/35000 Energy 157 Cells 15 Inventory=15
+
+
+INFO: Step 3080 Flips 72/35000 Energy 55 Cells 15 Inventory=15
+
+
+INFO: Step 3090 Flips 80/35000 Energy -26 Cells 15 Inventory=15
+
+
+INFO: Step 3100 Flips 64/35000 Energy -80 Cells 15 Inventory=15
+
+
+INFO: Step 3110 Flips 58/35000 Energy 117 Cells 15 Inventory=15
+
+
+INFO: Step 3120 Flips 87/35000 Energy -10 Cells 15 Inventory=15
+
+
+INFO: Step 3130 Flips 67/35000 Energy 12 Cells 15 Inventory=15
+
+
+INFO: Step 3140 Flips 88/35000 Energy -113 Cells 15 Inventory=15
+
+
+INFO: Step 3150 Flips 68/35000 Energy -57 Cells 15 Inventory=15
+
+
+INFO: Step 3160 Flips 65/35000 Energy 78 Cells 15 Inventory=15
+
+
+INFO: Step 3170 Flips 76/35000 Energy 65 Cells 15 Inventory=15
+
+
+INFO: Step 3180 Flips 60/35000 Energy 15 Cells 15 Inventory=15
+
+
+INFO: Step 3190 Flips 73/35000 Energy 119 Cells 15 Inventory=15
+
+
+INFO: Step 3200 Flips 70/35000 Energy -137 Cells 15 Inventory=15
+
+
+INFO: Step 3210 Flips 85/35000 Energy -110 Cells 15 Inventory=15
+
+
+INFO: Step 3220 Flips 59/35000 Energy -77 Cells 15 Inventory=15
+
+
+INFO: Step 3230 Flips 72/35000 Energy 106 Cells 15 Inventory=15
+
+
+INFO: Step 3240 Flips 64/35000 Energy 136 Cells 15 Inventory=15
+
+
+INFO: Step 3250 Flips 93/35000 Energy -52 Cells 15 Inventory=15
+
+
+INFO: Step 3260 Flips 88/35000 Energy 16 Cells 15 Inventory=15
+
+
+INFO: Step 3270 Flips 89/35000 Energy 155 Cells 15 Inventory=15
+
+
+INFO: Step 3280 Flips 68/35000 Energy 64 Cells 15 Inventory=15
+
+
+INFO: Step 3290 Flips 66/35000 Energy 120 Cells 15 Inventory=15
+
+
+INFO: Step 3300 Flips 92/35000 Energy 44 Cells 15 Inventory=15
+
+
+INFO: Step 3310 Flips 74/35000 Energy 233 Cells 15 Inventory=15
+
+
+INFO: Step 3320 Flips 74/35000 Energy 64 Cells 15 Inventory=15
+
+
+INFO: Step 3330 Flips 79/35000 Energy -32 Cells 15 Inventory=15
+
+
+INFO: Step 3340 Flips 54/35000 Energy -29 Cells 15 Inventory=15
+
+
+INFO: Step 3350 Flips 61/35000 Energy -34 Cells 15 Inventory=15
+
+
+INFO: Step 3360 Flips 65/35000 Energy 224 Cells 15 Inventory=15
+
+
+INFO: Step 3370 Flips 70/35000 Energy -116 Cells 15 Inventory=15
+
+
+INFO: Step 3380 Flips 69/35000 Energy 27 Cells 15 Inventory=15
+
+
+INFO: Step 3390 Flips 55/35000 Energy -74 Cells 15 Inventory=15
+
+
+INFO: Step 3400 Flips 64/35000 Energy -213 Cells 15 Inventory=15
+
+
+INFO: Step 3410 Flips 74/35000 Energy -47 Cells 15 Inventory=15
+
+
+INFO: Step 3420 Flips 84/35000 Energy 83 Cells 15 Inventory=15
+
+
+INFO: Step 3430 Flips 80/35000 Energy 5 Cells 15 Inventory=15
+
+
+INFO: Step 3440 Flips 81/35000 Energy 25 Cells 15 Inventory=15
+
+
+INFO: Step 3450 Flips 63/35000 Energy 33 Cells 15 Inventory=15
+
+
+INFO: Step 3460 Flips 83/35000 Energy 134 Cells 15 Inventory=15
+
+
+INFO: Step 3470 Flips 67/35000 Energy -87 Cells 15 Inventory=15
+
+
+INFO: Step 3480 Flips 64/35000 Energy 106 Cells 15 Inventory=15
+
+
+INFO: Step 3490 Flips 77/35000 Energy 230 Cells 15 Inventory=15
+
+
+INFO: Step 3500 Flips 69/35000 Energy -215 Cells 15 Inventory=15
+
+
+INFO: Step 3510 Flips 71/35000 Energy 86 Cells 15 Inventory=15
+
+
+INFO: Step 3520 Flips 70/35000 Energy -191 Cells 15 Inventory=15
+
+
+INFO: Step 3530 Flips 70/35000 Energy 83 Cells 15 Inventory=15
+
+
+INFO: Step 3540 Flips 77/35000 Energy -68 Cells 15 Inventory=15
+
+
+INFO: Step 3550 Flips 76/35000 Energy 199 Cells 15 Inventory=15
+
+
+INFO: Step 3560 Flips 77/35000 Energy -17 Cells 15 Inventory=15
+
+
+INFO: Step 3570 Flips 66/35000 Energy 19 Cells 15 Inventory=15
+
+
+INFO: Step 3580 Flips 73/35000 Energy 150 Cells 15 Inventory=15
+
+
+INFO: Step 3590 Flips 81/35000 Energy 9 Cells 15 Inventory=15
+
+

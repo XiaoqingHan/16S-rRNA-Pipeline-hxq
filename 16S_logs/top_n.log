@@ -1,0 +1,11 @@
+2025-08-25 20:58:43,817 - 16S_Analysis - INFO - Processing group: CF
+2025-08-25 20:58:43,837 - 16S_Analysis - WARNING - No abundance file for sample abund_results
+2025-08-25 20:58:43,884 - 16S_Analysis - INFO - CF: filtered out 28 genera
+2025-08-25 20:58:45,702 - 16S_Analysis - INFO - Processing group: SECC
+2025-08-25 20:58:45,720 - 16S_Analysis - WARNING - No abundance file for sample abund_results
+2025-08-25 20:58:45,758 - 16S_Analysis - INFO - SECC: filtered out 48 genera
+2025-08-25 20:58:47,382 - 16S_Analysis - INFO - Top 10 genera: ['Neisseria', 'Streptococcus', 'Actinomyces', 'Selenomonas', 'Veillonella', 'Corynebacterium', 'Rothia', 'Haemophilus', 'Capnocytophaga', 'Fusobacterium']
+2025-08-25 20:58:48,091 - 16S_Analysis - INFO - Genera for statistical testing: ['Neisseria', 'Corynebacterium', 'Streptococcus', 'Capnocytophaga', 'Veillonella', 'Selenomonas', 'Rothia', 'Actinomyces', 'Fusobacterium', 'Haemophilus']
+2025-08-25 20:58:48,109 - 16S_Analysis - INFO - Creating boxplots for focus genera: ['Streptococcus', 'Veillonella']
+2025-08-25 20:58:48,655 - 16S_Analysis - INFO - All analysis completed.
+2025-08-25 20:58:48,655 - 16S_Analysis - INFO - All steps completed in 4.84s.

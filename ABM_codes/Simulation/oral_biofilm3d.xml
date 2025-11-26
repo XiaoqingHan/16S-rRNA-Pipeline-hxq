@@ -1,0 +1,76 @@
+<CompuCell3D Revision="2" Version="4.6.0">
+    <Metadata>
+        <NumberOfProcessors>1</NumberOfProcessors>
+        <DebugOutputFrequency>10</DebugOutputFrequency>
+    </Metadata>
+
+    <Potts>
+        <Dimensions x="50" y="50" z="14"/>
+        <Steps>3600</Steps> <!-- Match variablevals RECOMMENDED_STEPS -->
+        <Temperature>10.0</Temperature>
+        <NeighborOrder>2</NeighborOrder>
+    </Potts>
+
+    <Plugin Name="CellType">
+        <CellType TypeId="0" TypeName="Medium"/>
+        <CellType TypeId="1" TypeName="s_mutans"/>
+        <CellType TypeId="2" TypeName="v_parvula"/>
+    </Plugin>
+
+    <Plugin Name="CenterOfMass"/>
+    <Plugin Name="NeighborTracker"/>
+    <Plugin Name="PixelTracker"/>
+
+    <Plugin Name="Contact">
+        <Energy Type1="Medium" Type2="Medium">0</Energy>
+        <Energy Type1="Medium" Type2="s_mutans">10</Energy>
+        <Energy Type1="Medium" Type2="v_parvula">10</Energy>
+        <Energy Type1="s_mutans" Type2="s_mutans">10</Energy>
+        <Energy Type1="s_mutans" Type2="v_parvula">15</Energy>
+        <Energy Type1="v_parvula" Type2="v_parvula">5</Energy>
+    </Plugin>
+    
+    <Plugin Name="Volume">
+        <VolumeEnergyParameters CellType="s_mutans" LambdaVolume="2.0" TargetVolume="27"/>
+        <VolumeEnergyParameters CellType="v_parvula" LambdaVolume="2.0" TargetVolume="27"/>
+    </Plugin>
+    
+    <!-- Create fields but disable CC3D diffusion (FiPy solves) -->
+    <Steppable Type="DiffusionSolverFE">
+        <DiffusionField Name="sucrose">
+            <DiffusionData>
+                <FieldName>sucrose</FieldName>
+                <DiffusionConstant>0.0</DiffusionConstant>
+                <DoNotDiffuse/>
+            </DiffusionData>
+        </DiffusionField>
+        <DiffusionField Name="lactate">
+            <DiffusionData>
+                <FieldName>lactate</FieldName>
+                <DiffusionConstant>0.0</DiffusionConstant>
+                <DoNotDiffuse/>
+            </DiffusionData>
+        </DiffusionField>
+        <DiffusionField Name="acetate">
+            <DiffusionData>
+                <FieldName>acetate</FieldName>
+                <DiffusionConstant>0.0</DiffusionConstant>
+                <DoNotDiffuse/>
+            </DiffusionData>
+        </DiffusionField>
+        <DiffusionField Name="propionate">
+            <DiffusionData>
+                <FieldName>propionate</FieldName>
+                <DiffusionConstant>0.0</DiffusionConstant>
+                <DoNotDiffuse/>
+            </DiffusionData>
+        </DiffusionField>
+        <DiffusionField Name="eps">
+            <DiffusionData>
+                <FieldName>eps</FieldName>
+                <DiffusionConstant>0.0</DiffusionConstant>
+                <DoNotDiffuse/>
+            </DiffusionData>
+        </DiffusionField>
+    </Steppable>
+</CompuCell3D>

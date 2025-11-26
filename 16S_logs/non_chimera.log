@@ -1,0 +1,408 @@
+2025-08-25 10:04:19,325 - 16S_Analysis - INFO - ==================================================
+2025-08-25 10:04:19,325 - 16S_Analysis - INFO - Processing group: CF
+2025-08-25 10:04:19,326 - 16S_Analysis - WARNING - No valid fasta file for kmer_results.
+2025-08-25 10:04:19,326 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:04:19,326 - 16S_Analysis - INFO - Processing sample CF37
+2025-08-25 10:04:22,483 - 16S_Analysis - INFO - Loaded 55278 sequences.
+2025-08-25 10:04:52,652 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 55278 sequences passed.
+2025-08-25 10:04:52,678 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:04:52,678 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:04:52,678 - 16S_Analysis - INFO - Processing sample CF30
+2025-08-25 10:04:56,825 - 16S_Analysis - INFO - Loaded 72482 sequences.
+2025-08-25 10:05:35,327 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 72482 sequences passed.
+2025-08-25 10:05:35,361 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:05:35,361 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:05:35,361 - 16S_Analysis - INFO - Processing sample CF39
+2025-08-25 10:05:39,089 - 16S_Analysis - INFO - Loaded 62716 sequences.
+2025-08-25 10:06:15,762 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 62716 sequences passed.
+2025-08-25 10:06:15,792 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:06:15,792 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:06:15,792 - 16S_Analysis - INFO - Processing sample CF38
+2025-08-25 10:06:20,106 - 16S_Analysis - INFO - Loaded 71002 sequences.
+2025-08-25 10:06:59,541 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 71002 sequences passed.
+2025-08-25 10:06:59,574 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:06:59,575 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:06:59,575 - 16S_Analysis - INFO - Processing sample CF31
+2025-08-25 10:07:03,708 - 16S_Analysis - INFO - Loaded 68097 sequences.
+2025-08-25 10:07:45,766 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 68096 sequences passed.
+2025-08-25 10:07:45,805 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:07:45,806 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:07:45,806 - 16S_Analysis - INFO - Processing sample CF36
+2025-08-25 10:07:50,817 - 16S_Analysis - INFO - Loaded 81929 sequences.
+2025-08-25 10:08:46,745 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 81929 sequences passed.
+2025-08-25 10:08:46,791 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:08:46,791 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:08:46,791 - 16S_Analysis - INFO - Processing sample CF1
+2025-08-25 10:08:50,949 - 16S_Analysis - INFO - Loaded 66864 sequences.
+2025-08-25 10:09:42,081 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 66864 sequences passed.
+2025-08-25 10:09:42,126 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:09:42,126 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:09:42,127 - 16S_Analysis - INFO - Processing sample CF6
+2025-08-25 10:09:46,888 - 16S_Analysis - INFO - Loaded 70176 sequences.
+2025-08-25 10:10:38,089 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 70176 sequences passed.
+2025-08-25 10:10:38,127 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:10:38,127 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:10:38,127 - 16S_Analysis - INFO - Processing sample CF40
+2025-08-25 10:10:41,992 - 16S_Analysis - INFO - Loaded 61185 sequences.
+2025-08-25 10:11:28,891 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 61185 sequences passed.
+2025-08-25 10:11:28,928 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:11:28,929 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:11:28,929 - 16S_Analysis - INFO - Processing sample CF8
+2025-08-25 10:11:33,724 - 16S_Analysis - INFO - Loaded 73485 sequences.
+2025-08-25 10:12:24,813 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 73484 sequences passed.
+2025-08-25 10:12:24,854 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:12:24,854 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:12:24,854 - 16S_Analysis - INFO - Processing sample CF14
+2025-08-25 10:12:29,863 - 16S_Analysis - INFO - Loaded 74287 sequences.
+2025-08-25 10:13:21,835 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 74285 sequences passed.
+2025-08-25 10:13:21,873 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:13:21,873 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:13:21,873 - 16S_Analysis - INFO - Processing sample CF13
+2025-08-25 10:13:26,522 - 16S_Analysis - INFO - Loaded 68109 sequences.
+2025-08-25 10:14:18,334 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 68109 sequences passed.
+2025-08-25 10:14:18,374 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:14:18,375 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:14:18,375 - 16S_Analysis - INFO - Processing sample CF25
+2025-08-25 10:14:21,898 - 16S_Analysis - INFO - Loaded 51627 sequences.
+2025-08-25 10:15:09,856 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 51625 sequences passed.
+2025-08-25 10:15:09,888 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:15:09,888 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:15:09,888 - 16S_Analysis - INFO - Processing sample CF22
+2025-08-25 10:15:14,667 - 16S_Analysis - INFO - Loaded 71750 sequences.
+2025-08-25 10:16:11,764 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 71750 sequences passed.
+2025-08-25 10:16:11,806 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:16:11,807 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:16:11,807 - 16S_Analysis - INFO - Processing sample CF9
+2025-08-25 10:16:17,233 - 16S_Analysis - INFO - Loaded 75655 sequences.
+2025-08-25 10:17:15,825 - 16S_Analysis - INFO - Non-chimeras rate: 99.99%, 75651 sequences passed.
+2025-08-25 10:17:15,869 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:17:15,870 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:17:15,870 - 16S_Analysis - INFO - Processing sample CF7
+2025-08-25 10:17:20,756 - 16S_Analysis - INFO - Loaded 64289 sequences.
+2025-08-25 10:18:24,258 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 64289 sequences passed.
+2025-08-25 10:18:24,297 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:18:24,297 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:18:24,298 - 16S_Analysis - INFO - Processing sample CF23
+2025-08-25 10:18:29,372 - 16S_Analysis - INFO - Loaded 65560 sequences.
+2025-08-25 10:19:27,860 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 65560 sequences passed.
+2025-08-25 10:19:27,899 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:19:27,900 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:19:27,900 - 16S_Analysis - INFO - Processing sample CF24
+2025-08-25 10:19:32,116 - 16S_Analysis - INFO - Loaded 58434 sequences.
+2025-08-25 10:20:35,294 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 58433 sequences passed.
+2025-08-25 10:20:35,328 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:20:35,328 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:20:35,328 - 16S_Analysis - INFO - Processing sample CF12
+2025-08-25 10:20:40,025 - 16S_Analysis - INFO - Loaded 58618 sequences.
+2025-08-25 10:21:40,710 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 58616 sequences passed.
+2025-08-25 10:21:40,741 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:21:40,741 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:21:40,741 - 16S_Analysis - INFO - Processing sample CF15
+2025-08-25 10:21:46,006 - 16S_Analysis - INFO - Loaded 71644 sequences.
+2025-08-25 10:22:52,846 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 71644 sequences passed.
+2025-08-25 10:22:52,890 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:22:52,890 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:22:52,890 - 16S_Analysis - INFO - Processing sample CF33
+2025-08-25 10:22:57,310 - 16S_Analysis - INFO - Loaded 56370 sequences.
+2025-08-25 10:23:56,419 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 56370 sequences passed.
+2025-08-25 10:23:56,453 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:23:56,453 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:23:56,453 - 16S_Analysis - INFO - Processing sample CF34
+2025-08-25 10:24:01,518 - 16S_Analysis - INFO - Loaded 66963 sequences.
+2025-08-25 10:25:12,138 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 66963 sequences passed.
+2025-08-25 10:25:12,177 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:25:12,178 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:25:12,178 - 16S_Analysis - INFO - Processing sample CF35
+2025-08-25 10:25:17,175 - 16S_Analysis - INFO - Loaded 67543 sequences.
+2025-08-25 10:26:13,641 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 67541 sequences passed.
+2025-08-25 10:26:13,682 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:26:13,682 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:26:13,682 - 16S_Analysis - INFO - Processing sample CF32
+2025-08-25 10:26:18,258 - 16S_Analysis - INFO - Loaded 64869 sequences.
+2025-08-25 10:27:24,205 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 64867 sequences passed.
+2025-08-25 10:27:24,245 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:27:24,245 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:27:24,245 - 16S_Analysis - INFO - Processing sample CF10
+2025-08-25 10:27:31,965 - 16S_Analysis - INFO - Loaded 81791 sequences.
+2025-08-25 10:28:47,503 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 81791 sequences passed.
+2025-08-25 10:28:47,558 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:28:47,558 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:28:47,558 - 16S_Analysis - INFO - Processing sample CF28
+2025-08-25 10:28:53,055 - 16S_Analysis - INFO - Loaded 66994 sequences.
+2025-08-25 10:30:03,161 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 66994 sequences passed.
+2025-08-25 10:30:03,202 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:30:03,203 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:30:03,203 - 16S_Analysis - INFO - Processing sample CF17
+2025-08-25 10:30:07,205 - 16S_Analysis - INFO - Loaded 57170 sequences.
+2025-08-25 10:31:12,532 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 57170 sequences passed.
+2025-08-25 10:31:12,568 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:31:12,569 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:31:12,569 - 16S_Analysis - INFO - Processing sample CF21
+2025-08-25 10:31:18,737 - 16S_Analysis - INFO - Loaded 74656 sequences.
+2025-08-25 10:32:40,804 - 16S_Analysis - INFO - Non-chimeras rate: 99.99%, 74652 sequences passed.
+2025-08-25 10:32:40,851 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:32:40,852 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:32:40,852 - 16S_Analysis - INFO - Processing sample CF19
+2025-08-25 10:32:46,249 - 16S_Analysis - INFO - Loaded 57173 sequences.
+2025-08-25 10:34:04,861 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 57172 sequences passed.
+2025-08-25 10:34:04,896 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:34:04,896 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:34:04,896 - 16S_Analysis - INFO - Processing sample CF26
+2025-08-25 10:34:09,370 - 16S_Analysis - INFO - Loaded 58723 sequences.
+2025-08-25 10:35:22,932 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 58723 sequences passed.
+2025-08-25 10:35:22,968 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:35:22,968 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:35:22,968 - 16S_Analysis - INFO - Processing sample CF5
+2025-08-25 10:35:27,790 - 16S_Analysis - INFO - Loaded 64216 sequences.
+2025-08-25 10:36:31,328 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 64216 sequences passed.
+2025-08-25 10:36:31,367 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:36:31,367 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:36:31,367 - 16S_Analysis - INFO - Processing sample CF2
+2025-08-25 10:36:37,284 - 16S_Analysis - INFO - Loaded 79035 sequences.
+2025-08-25 10:37:37,862 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 79035 sequences passed.
+2025-08-25 10:37:37,908 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:37:37,908 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:37:37,908 - 16S_Analysis - INFO - Processing sample CF18
+2025-08-25 10:37:42,182 - 16S_Analysis - INFO - Loaded 59331 sequences.
+2025-08-25 10:38:42,049 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 59331 sequences passed.
+2025-08-25 10:38:42,085 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:38:42,085 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:38:42,085 - 16S_Analysis - INFO - Processing sample CF27
+2025-08-25 10:38:47,399 - 16S_Analysis - INFO - Loaded 72179 sequences.
+2025-08-25 10:39:47,846 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 72179 sequences passed.
+2025-08-25 10:39:47,893 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:39:47,893 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:39:47,893 - 16S_Analysis - INFO - Processing sample CF20
+2025-08-25 10:39:53,649 - 16S_Analysis - INFO - Loaded 63543 sequences.
+2025-08-25 10:40:49,378 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 63543 sequences passed.
+2025-08-25 10:40:49,415 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:40:49,415 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:40:49,415 - 16S_Analysis - INFO - Processing sample CF29
+2025-08-25 10:40:54,276 - 16S_Analysis - INFO - Loaded 67807 sequences.
+2025-08-25 10:41:53,148 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 67807 sequences passed.
+2025-08-25 10:41:53,189 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:41:53,189 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:41:53,189 - 16S_Analysis - INFO - Processing sample CF16
+2025-08-25 10:41:57,962 - 16S_Analysis - INFO - Loaded 63931 sequences.
+2025-08-25 10:42:54,563 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 63931 sequences passed.
+2025-08-25 10:42:54,603 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:42:54,603 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:42:54,603 - 16S_Analysis - INFO - Processing sample CF11
+2025-08-25 10:42:58,017 - 16S_Analysis - INFO - Loaded 45073 sequences.
+2025-08-25 10:43:50,171 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 45073 sequences passed.
+2025-08-25 10:43:50,198 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:43:50,198 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:43:50,199 - 16S_Analysis - INFO - Processing sample CF3
+2025-08-25 10:43:54,996 - 16S_Analysis - INFO - Loaded 67774 sequences.
+2025-08-25 10:44:52,791 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 67773 sequences passed.
+2025-08-25 10:44:52,833 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:44:52,833 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:44:52,833 - 16S_Analysis - INFO - Processing sample CF4
+2025-08-25 10:44:56,057 - 16S_Analysis - INFO - Loaded 43728 sequences.
+2025-08-25 10:51:58,965 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 43727 sequences passed.
+2025-08-25 10:51:58,986 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:51:58,986 - 16S_Analysis - INFO - ==================================================
+2025-08-25 10:51:58,986 - 16S_Analysis - INFO - Processing group: SECC
+2025-08-25 10:51:58,991 - 16S_Analysis - WARNING - No valid fasta file for abund_results.
+2025-08-25 10:51:58,997 - 16S_Analysis - WARNING - No valid fasta file for kmer_results.
+2025-08-25 10:51:58,999 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:51:58,999 - 16S_Analysis - INFO - Processing sample SECC27
+2025-08-25 10:52:04,026 - 16S_Analysis - INFO - Loaded 72546 sequences.
+2025-08-25 10:52:51,966 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 72543 sequences passed.
+2025-08-25 10:52:52,005 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:52:52,005 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:52:52,005 - 16S_Analysis - INFO - Processing sample SECC18
+2025-08-25 10:52:57,775 - 16S_Analysis - INFO - Loaded 62613 sequences.
+2025-08-25 10:53:45,354 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 62613 sequences passed.
+2025-08-25 10:53:45,386 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:53:45,386 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:53:45,386 - 16S_Analysis - INFO - Processing sample SECC20
+2025-08-25 10:53:50,145 - 16S_Analysis - INFO - Loaded 64934 sequences.
+2025-08-25 10:54:38,788 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 64933 sequences passed.
+2025-08-25 10:54:38,827 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:54:38,827 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:54:38,827 - 16S_Analysis - INFO - Processing sample SECC16
+2025-08-25 10:54:44,139 - 16S_Analysis - INFO - Loaded 70736 sequences.
+2025-08-25 10:55:50,092 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 70735 sequences passed.
+2025-08-25 10:55:50,136 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:55:50,136 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:55:50,136 - 16S_Analysis - INFO - Processing sample SECC29
+2025-08-25 10:55:56,267 - 16S_Analysis - INFO - Loaded 68517 sequences.
+2025-08-25 10:57:06,893 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 68517 sequences passed.
+2025-08-25 10:57:06,936 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:57:06,936 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:57:06,936 - 16S_Analysis - INFO - Processing sample SECC11
+2025-08-25 10:57:11,135 - 16S_Analysis - INFO - Loaded 56073 sequences.
+2025-08-25 10:58:17,962 - 16S_Analysis - INFO - Non-chimeras rate: 99.99%, 56068 sequences passed.
+2025-08-25 10:58:18,012 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:58:18,012 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:58:18,012 - 16S_Analysis - INFO - Processing sample SECC10
+2025-08-25 10:58:23,616 - 16S_Analysis - INFO - Loaded 70627 sequences.
+2025-08-25 10:59:27,945 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 70624 sequences passed.
+2025-08-25 10:59:27,988 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 10:59:27,988 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 10:59:27,988 - 16S_Analysis - INFO - Processing sample SECC17
+2025-08-25 10:59:32,605 - 16S_Analysis - INFO - Loaded 57800 sequences.
+2025-08-25 11:00:39,404 - 16S_Analysis - INFO - Non-chimeras rate: 99.99%, 57795 sequences passed.
+2025-08-25 11:00:39,439 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:00:39,440 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:00:39,440 - 16S_Analysis - INFO - Processing sample SECC28
+2025-08-25 11:00:44,530 - 16S_Analysis - INFO - Loaded 68570 sequences.
+2025-08-25 11:01:54,977 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 68570 sequences passed.
+2025-08-25 11:01:55,027 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:01:55,028 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:01:55,028 - 16S_Analysis - INFO - Processing sample SECC21
+2025-08-25 11:02:01,206 - 16S_Analysis - INFO - Loaded 64752 sequences.
+2025-08-25 11:03:17,511 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 64752 sequences passed.
+2025-08-25 11:03:17,549 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:03:17,549 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:03:17,549 - 16S_Analysis - INFO - Processing sample SECC26
+2025-08-25 11:03:23,084 - 16S_Analysis - INFO - Loaded 71678 sequences.
+2025-08-25 11:04:43,858 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 71678 sequences passed.
+2025-08-25 11:04:43,909 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:04:43,909 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:04:43,909 - 16S_Analysis - INFO - Processing sample SECC19
+2025-08-25 11:04:48,042 - 16S_Analysis - INFO - Loaded 51620 sequences.
+2025-08-25 11:06:00,994 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 51620 sequences passed.
+2025-08-25 11:06:01,030 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:06:01,031 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:06:01,031 - 16S_Analysis - INFO - Processing sample SECC8
+2025-08-25 11:06:05,498 - 16S_Analysis - INFO - Loaded 55851 sequences.
+2025-08-25 11:07:09,590 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 55851 sequences passed.
+2025-08-25 11:07:09,628 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:07:09,628 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:07:09,628 - 16S_Analysis - INFO - Processing sample SECC6
+2025-08-25 11:07:15,744 - 16S_Analysis - INFO - Loaded 73614 sequences.
+2025-08-25 11:08:29,787 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 73614 sequences passed.
+2025-08-25 11:08:29,840 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:08:29,840 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:08:29,840 - 16S_Analysis - INFO - Processing sample SECC35
+2025-08-25 11:08:36,304 - 16S_Analysis - INFO - Loaded 65849 sequences.
+2025-08-25 11:09:45,960 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 65849 sequences passed.
+2025-08-25 11:09:45,999 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:09:45,999 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:09:45,999 - 16S_Analysis - INFO - Processing sample SECC1
+2025-08-25 11:09:51,791 - 16S_Analysis - INFO - Loaded 79662 sequences.
+2025-08-25 11:11:05,597 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 79662 sequences passed.
+2025-08-25 11:11:05,647 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:11:05,647 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:11:05,647 - 16S_Analysis - INFO - Processing sample SECC32
+2025-08-25 11:11:09,725 - 16S_Analysis - INFO - Loaded 54664 sequences.
+2025-08-25 11:12:11,864 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 54663 sequences passed.
+2025-08-25 11:12:11,900 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:12:11,900 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:12:11,900 - 16S_Analysis - INFO - Processing sample SECC33
+2025-08-25 11:12:16,268 - 16S_Analysis - INFO - Loaded 57311 sequences.
+2025-08-25 11:13:12,599 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 57309 sequences passed.
+2025-08-25 11:13:12,643 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:13:12,643 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:13:12,643 - 16S_Analysis - INFO - Processing sample SECC7
+2025-08-25 11:13:18,265 - 16S_Analysis - INFO - Loaded 75021 sequences.
+2025-08-25 11:14:20,110 - 16S_Analysis - INFO - Non-chimeras rate: 99.99%, 75017 sequences passed.
+2025-08-25 11:14:20,157 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:14:20,157 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:14:20,157 - 16S_Analysis - INFO - Processing sample SECC34
+2025-08-25 11:14:24,791 - 16S_Analysis - INFO - Loaded 61746 sequences.
+2025-08-25 11:15:31,012 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 61746 sequences passed.
+2025-08-25 11:15:31,052 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:15:31,053 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:15:31,053 - 16S_Analysis - INFO - Processing sample SECC9
+2025-08-25 11:15:35,797 - 16S_Analysis - INFO - Loaded 63009 sequences.
+2025-08-25 11:16:41,386 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 63009 sequences passed.
+2025-08-25 11:16:41,431 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:16:41,431 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:16:41,431 - 16S_Analysis - INFO - Processing sample SECC23
+2025-08-25 11:16:47,027 - 16S_Analysis - INFO - Loaded 69151 sequences.
+2025-08-25 11:17:51,624 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 69151 sequences passed.
+2025-08-25 11:17:51,678 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:17:51,678 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:17:51,678 - 16S_Analysis - INFO - Processing sample SECC24
+2025-08-25 11:17:52,989 - 16S_Analysis - INFO - Loaded 16822 sequences.
+2025-08-25 11:18:30,373 - 16S_Analysis - INFO - Non-chimeras rate: 99.99%, 16820 sequences passed.
+2025-08-25 11:18:30,384 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:18:30,384 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:18:30,384 - 16S_Analysis - INFO - Processing sample SECC12
+2025-08-25 11:18:35,195 - 16S_Analysis - INFO - Loaded 70973 sequences.
+2025-08-25 11:19:34,744 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 70972 sequences passed.
+2025-08-25 11:19:34,793 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:19:34,793 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:19:34,793 - 16S_Analysis - INFO - Processing sample SECC15
+2025-08-25 11:19:39,677 - 16S_Analysis - INFO - Loaded 62229 sequences.
+2025-08-25 11:20:37,952 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 62229 sequences passed.
+2025-08-25 11:20:38,002 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:20:38,002 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:20:38,002 - 16S_Analysis - INFO - Processing sample SECC40
+2025-08-25 11:20:44,126 - 16S_Analysis - INFO - Loaded 78636 sequences.
+2025-08-25 11:21:52,298 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 78636 sequences passed.
+2025-08-25 11:21:52,362 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:21:52,362 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:21:52,362 - 16S_Analysis - INFO - Processing sample SECC14
+2025-08-25 11:21:57,499 - 16S_Analysis - INFO - Loaded 65707 sequences.
+2025-08-25 11:22:54,007 - 16S_Analysis - INFO - Non-chimeras rate: 99.99%, 65703 sequences passed.
+2025-08-25 11:22:54,050 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:22:54,050 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:22:54,050 - 16S_Analysis - INFO - Processing sample SECC13
+2025-08-25 11:22:58,828 - 16S_Analysis - INFO - Loaded 63172 sequences.
+2025-08-25 11:23:52,496 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 63171 sequences passed.
+2025-08-25 11:23:52,535 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:23:52,535 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:23:52,535 - 16S_Analysis - INFO - Processing sample SECC25
+2025-08-25 11:23:57,821 - 16S_Analysis - INFO - Loaded 69885 sequences.
+2025-08-25 11:24:52,239 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 69885 sequences passed.
+2025-08-25 11:24:52,286 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:24:52,286 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:24:52,286 - 16S_Analysis - INFO - Processing sample SECC22
+2025-08-25 11:24:57,311 - 16S_Analysis - INFO - Loaded 68838 sequences.
+2025-08-25 11:25:51,047 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 68838 sequences passed.
+2025-08-25 11:25:51,096 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:25:51,096 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:25:51,096 - 16S_Analysis - INFO - Processing sample SECC38
+2025-08-25 11:25:56,651 - 16S_Analysis - INFO - Loaded 67909 sequences.
+2025-08-25 11:27:07,143 - 16S_Analysis - INFO - Non-chimeras rate: 99.99%, 67904 sequences passed.
+2025-08-25 11:27:07,186 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:27:07,186 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:27:07,186 - 16S_Analysis - INFO - Processing sample SECC2
+2025-08-25 11:27:12,116 - 16S_Analysis - INFO - Loaded 50986 sequences.
+2025-08-25 11:28:16,654 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 50986 sequences passed.
+2025-08-25 11:28:16,693 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:28:16,694 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:28:16,694 - 16S_Analysis - INFO - Processing sample SECC31
+2025-08-25 11:28:22,188 - 16S_Analysis - INFO - Loaded 68347 sequences.
+2025-08-25 11:29:30,814 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 68347 sequences passed.
+2025-08-25 11:29:30,861 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:29:30,861 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:29:30,861 - 16S_Analysis - INFO - Processing sample SECC5
+2025-08-25 11:29:35,762 - 16S_Analysis - INFO - Loaded 61887 sequences.
+2025-08-25 11:30:32,287 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 61887 sequences passed.
+2025-08-25 11:30:32,325 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:30:32,326 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:30:32,326 - 16S_Analysis - INFO - Processing sample SECC36
+2025-08-25 11:30:36,950 - 16S_Analysis - INFO - Loaded 58967 sequences.
+2025-08-25 11:31:43,217 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 58967 sequences passed.
+2025-08-25 11:31:43,257 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:31:43,257 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:31:43,257 - 16S_Analysis - INFO - Processing sample SECC4
+2025-08-25 11:31:48,554 - 16S_Analysis - INFO - Loaded 76700 sequences.
+2025-08-25 11:32:47,818 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 76700 sequences passed.
+2025-08-25 11:32:47,866 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:32:47,867 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:32:47,867 - 16S_Analysis - INFO - Processing sample SECC37
+2025-08-25 11:32:52,350 - 16S_Analysis - INFO - Loaded 55637 sequences.
+2025-08-25 11:33:56,404 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 55637 sequences passed.
+2025-08-25 11:33:56,436 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:33:56,436 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:33:56,436 - 16S_Analysis - INFO - Processing sample SECC3
+2025-08-25 11:34:01,768 - 16S_Analysis - INFO - Loaded 69550 sequences.
+2025-08-25 11:35:07,577 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 69550 sequences passed.
+2025-08-25 11:35:07,620 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:35:07,620 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:35:07,620 - 16S_Analysis - INFO - Processing sample SECC30
+2025-08-25 11:35:12,792 - 16S_Analysis - INFO - Loaded 66703 sequences.
+2025-08-25 11:36:14,076 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 66702 sequences passed.
+2025-08-25 11:36:14,117 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:36:14,117 - 16S_Analysis - INFO - --------------------------------------------------
+2025-08-25 11:36:14,117 - 16S_Analysis - INFO - Processing sample SECC39
+2025-08-25 11:36:19,430 - 16S_Analysis - INFO - Loaded 71596 sequences.
+2025-08-25 11:37:23,540 - 16S_Analysis - INFO - Non-chimeras rate: 100.00%, 71596 sequences passed.
+2025-08-25 11:37:23,581 - 16S_Analysis - INFO - Saved non-chimeric sequences successfully.
+2025-08-25 11:37:25,234 - 16S_Analysis - INFO - Analysis completed in 5585.91s.
